@@ -13,6 +13,10 @@ sites:
     url: https://charmhub.io
   - name: Vanilla Framework
     url: https://vanillaframework.io
+  - name: JAAS.ai
+    url: https://jaas.ai
+  - name: JAAS Dashboard
+    url: https://jaas.ai/models
     
 status-website:
   cname: canonical-web-and-design.github.io
