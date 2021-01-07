@@ -37,7 +37,7 @@ sites:
   - name: maas.io
     url: https://maas.io
   - name: microk8s.io
-    url: https://microk8s.ioc
+    url: https://microk8s.io
   - name: multipass.run
     url: https://multipass.run
   - name: mir-server.io
