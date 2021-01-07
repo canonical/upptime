@@ -48,7 +48,6 @@ sites:
     url: https://netplan.io
 
 status-website:
-  cname: canonical-web-and-design.github.io
   baseUrl: /upptime
   logoUrl: https://assets.ubuntu.com/v1/b3b72cb2-canonical-logo-166.png
   name: Canonical websites monitoring
