@@ -1,7 +1,6 @@
 owner:  canonical-web-and-design
 repo: upptime
 
-# Add your sites here
 sites:
   - name: Ubuntu.com
     url: https://ubuntu.com
@@ -17,14 +16,44 @@ sites:
     url: https://jaas.ai
   - name: JAAS Dashboard
     url: https://jaas.ai/models
-    
+  - name: anbox-cloud.io
+    url: https://anbox-cloud.io
+  - name: canonical.com
+    url: https://canonical.com
+  - name: certification.ubuntu.com
+    url: https://certification.ubuntu.com
+  - name: charmed-osm.com
+    url: https://charmed-osm.com
+  - name: cn.ubuntu.com
+    url: https://cn.ubuntu.com
+  - name: dqlite.io
+    url: https://dqlite.io
+  - name: jp.ubuntu.com
+    url: https://jp.ubuntu.com
+  - name: juju.is
+    url: https://juju.is
+  - name: kubeflow-news.com
+    url: https://kubeflow-news.com
+  - name: maas.io
+    url: https://maas.io
+  - name: microk8s.io
+    url: https://microk8s.ioc
+  - name: multipass.run
+    url: https://multipass.run
+  - name: mir-server.io
+    url: https://mir-server.io
+  - name: microstack.run
+    url: https://microstack.run
+  - name: netplan.io
+    url: https://netplan.io
+
 status-website:
   cname: canonical-web-and-design.github.io
   baseUrl: /upptime
   logoUrl: https://assets.ubuntu.com/v1/b3b72cb2-canonical-logo-166.png
-  name: Canonical websites
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Canonical websites monitoring
+  introTitle: "**Upptime** monitors the websites that Canonical's webteam manages."
+  introMessage: Feel free to visit our [GitHub organisation](https://github.com/$OWNER/$REPO) to help us making our websites great!
   navbar:
     - title: Status
       href: /
