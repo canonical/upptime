@@ -1,4 +1,4 @@
-# [📈 Live Status](https://canonical-web-and-design.github.io): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://canonical-web-and-design.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Canonical web and design team](https://canonical-web-and-design.github.io), powered by [Upptime](https://github.com/upptime/upptime).
 
