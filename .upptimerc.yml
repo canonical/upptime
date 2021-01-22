@@ -22,6 +22,8 @@ sites:
     url: https://ubuntu.com/server/docs
   - name: Ubuntu.com kubernetes docs
     url: https://ubuntu.com/kubernetes/docs
+  - name: Ubuntu.com Ceph docs
+    url: https://ubuntu.com/ceph/docs
   - name: Ubuntu.com smart start guide
     url: https://ubuntu.com/smartstart/guide
   - name: Ubuntu.com appliances portfolio
@@ -32,6 +34,10 @@ sites:
     url: https://ubuntu.com/security/cve
   - name: Ubuntu.com CVE page
     url: https://ubuntu.com/security/CVE-2020-15180
+  - name: Ubuntu.com USN list
+    url: https://ubuntu.com/security/notices
+  - name: Ubuntu.com USN page
+    url: https://ubuntu.com/security/notices/USN-4697-2
   - name: Snapcraft.io
     url: https://snapcraft.io
   - name: Snapcraft.io store page
