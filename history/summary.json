@@ -44,19 +44,19 @@
     "url": "https://ubuntu.com/takeovers",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-takeovers-index",
-    "status": "down",
-    "uptime": "0.66%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
-    "time": 941,
-    "timeDay": 941,
-    "timeWeek": 941,
-    "timeMonth": 941,
-    "timeYear": 941,
+    "status": "up",
+    "uptime": "0.63%",
+    "uptimeDay": "0.63%",
+    "uptimeWeek": "0.63%",
+    "uptimeMonth": "0.63%",
+    "uptimeYear": "0.63%",
+    "time": 5171,
+    "timeDay": 5171,
+    "timeWeek": 5171,
+    "timeMonth": 5171,
+    "timeYear": 5171,
     "dailyMinutesDown": {
-      "2021-01-22": 9
+      "2021-01-22": 112
     }
   },
   {
