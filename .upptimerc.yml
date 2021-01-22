@@ -4,6 +4,34 @@ repo: upptime
 sites:
   - name: Ubuntu.com
     url: https://ubuntu.com
+  - name: Ubuntu.com engage index
+    url: https://ubuntu.com/engage
+  - name: Ubuntu.com takeovers index
+    url: https://ubuntu.com/takeovers
+  - name: Ubuntu.com blog
+    url: https://ubuntu.com/blog
+  - name: Ubuntu.com blog post
+    url: https://ubuntu.com/blog/design-and-web-team-summary-29-december-2020
+  - name: Ubuntu.com advantage
+    url: https://ubuntu.com/advantage
+  - name: Ubuntu.com tutorials
+    url: https://ubuntu.com/tutorials
+  - name: Ubuntu.com tutorial
+    url: https://ubuntu.com/tutorials/how-to-install-ubuntu-desktop-on-raspberry-pi-4#1-overview
+  - name: Ubuntu.com server docs
+    url: https://ubuntu.com/server/docs
+  - name: Ubuntu.com kubernetes docs
+    url: https://ubuntu.com/kubernetes/docs
+  - name: Ubuntu.com smart start guide
+    url: https://ubuntu.com/smartstart/guide
+  - name: Ubuntu.com appliances portfolio
+    url: https://ubuntu.com/appliance/portfolio
+  - name: Ubuntu.com appliance page
+    url: https://ubuntu.com/appliance/openhab
+  - name: Ubuntu.com CVE list
+    url: https://ubuntu.com/security/cve
+  - name: Ubuntu.com CVE page
+    url: https://ubuntu.com/security/CVE-2020-15180
   - name: Snapcraft.io
     url: https://snapcraft.io
   - name: Snapcraft.io store page
