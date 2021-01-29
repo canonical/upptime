@@ -70,6 +70,8 @@ sites:
     url: https://kubeflow-news.com
   - name: maas.io
     url: https://maas.io
+  - name: maas.io docs
+    url: https://maas.io/docs
   - name: microk8s.io
     url: https://microk8s.io
   - name: multipass.run
