@@ -27,18 +27,18 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-engage-index",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2814,
     "timeDay": 8177,
     "timeWeek": 4118,
     "timeMonth": 2814,
     "timeYear": 2814,
     "dailyMinutesDown": {
-      "2021-02-10": 1
+      "2021-02-10": 20
     }
   },
   {
@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-takeovers-index",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "99.52%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 3378,
     "timeDay": 8253,
     "timeWeek": 4553,
     "timeMonth": 3378,
     "timeYear": 3378,
     "dailyMinutesDown": {
-      "2021-02-10": 1,
+      "2021-02-10": 19,
       "2021-01-22": 112
     }
   },
@@ -157,18 +157,20 @@
     "url": "https://ubuntu.com/server/docs",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-server-docs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2095,
     "timeDay": 1866,
     "timeWeek": 2674,
     "timeMonth": 2095,
     "timeYear": 2095,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-10": 2
+    }
   },
   {
     "name": "Ubuntu.com kubernetes docs",
