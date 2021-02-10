@@ -88,7 +88,7 @@ status-website:
   logoUrl: https://assets.ubuntu.com/v1/b3b72cb2-canonical-logo-166.png
   name: Canonical websites monitoring
   introTitle: "**Upptime** monitors the websites that Canonical's webteam manages."
-  introMessage: Feel free to visit our [GitHub organisation](https://github.com/$OWNER/$REPO) to help us making our websites great!
+  introMessage: Feel free to visit [our GitHub organisation](https://github.com/canonical-web-and-design) to help us make our websites great!
   navbar:
     - title: Status
       href: /
