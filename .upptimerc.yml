@@ -87,6 +87,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://assets.ubuntu.com/v1/b3b72cb2-canonical-logo-166.png
   name: Canonical websites monitoring
+  favicon: https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png
   introTitle: "**Upptime** monitors the websites that Canonical's webteam manages."
   introMessage: Feel free to visit [our GitHub organisation](https://github.com/canonical-web-and-design) to help us make our websites great!
   navbar:
