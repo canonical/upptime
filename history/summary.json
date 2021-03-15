@@ -405,17 +405,17 @@
     "url": "https://charmhub.io",
     "icon": "https://favicons.githubusercontent.com/charmhub.io",
     "slug": "charmhub-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 952,
-    "timeDay": 6195,
-    "timeWeek": 2723,
-    "timeMonth": 1574,
-    "timeYear": 952,
+    "time": 946,
+    "timeDay": 5032,
+    "timeWeek": 2528,
+    "timeMonth": 1538,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2021-01-19": 39
     }
