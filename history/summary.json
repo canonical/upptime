@@ -742,17 +742,17 @@
     "url": "https://mir-server.io",
     "icon": "https://favicons.githubusercontent.com/mir-server.io",
     "slug": "mir-server-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 500,
-    "timeDay": 4830,
-    "timeWeek": 1502,
-    "timeMonth": 705,
-    "timeYear": 500,
+    "time": 511,
+    "timeDay": 3684,
+    "timeWeek": 1490,
+    "timeMonth": 727,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2021-01-19": 39
     }
