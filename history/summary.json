@@ -13,7 +13,7 @@
     "time": 375,
     "timeDay": 610,
     "timeWeek": 477,
-    "timeMonth": 382,
+    "timeMonth": 393,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2021-01-21": 51,
@@ -30,12 +30,12 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
     "time": 2256,
     "timeDay": 1928,
     "timeWeek": 1481,
-    "timeMonth": 1934,
+    "timeMonth": 1967,
     "timeYear": 2256,
     "dailyMinutesDown": {
       "2021-03-06": 18,
@@ -58,7 +58,7 @@
     "time": 2615,
     "timeDay": 1441,
     "timeWeek": 2831,
-    "timeMonth": 2160,
+    "timeMonth": 2240,
     "timeYear": 2615,
     "dailyMinutesDown": {
       "2021-03-06": 18,
@@ -81,7 +81,7 @@
     "time": 688,
     "timeDay": 331,
     "timeWeek": 850,
-    "timeMonth": 680,
+    "timeMonth": 692,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2021-03-03": 31
@@ -101,7 +101,7 @@
     "time": 1248,
     "timeDay": 1064,
     "timeWeek": 1503,
-    "timeMonth": 1182,
+    "timeMonth": 1204,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2021-03-06": 18
@@ -121,7 +121,7 @@
     "time": 516,
     "timeDay": 139,
     "timeWeek": 277,
-    "timeMonth": 484,
+    "timeMonth": 491,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2021-03-06": 18
@@ -141,7 +141,7 @@
     "time": 1678,
     "timeDay": 295,
     "timeWeek": 1365,
-    "timeMonth": 1577,
+    "timeMonth": 1629,
     "timeYear": 1678,
     "dailyMinutesDown": {
       "2021-03-06": 18
@@ -161,7 +161,7 @@
     "time": 2059,
     "timeDay": 1721,
     "timeWeek": 2350,
-    "timeMonth": 2032,
+    "timeMonth": 2096,
     "timeYear": 2059,
     "dailyMinutesDown": {
       "2021-03-06": 18
@@ -181,7 +181,7 @@
     "time": 1938,
     "timeDay": 827,
     "timeWeek": 1068,
-    "timeMonth": 1977,
+    "timeMonth": 2049,
     "timeYear": 1938,
     "dailyMinutesDown": {
       "2021-03-06": 18,
@@ -202,7 +202,7 @@
     "time": 557,
     "timeDay": 151,
     "timeWeek": 327,
-    "timeMonth": 601,
+    "timeMonth": 619,
     "timeYear": 557,
     "dailyMinutesDown": {
       "2021-03-06": 18
@@ -222,7 +222,7 @@
     "time": 993,
     "timeDay": 1461,
     "timeWeek": 743,
-    "timeMonth": 967,
+    "timeMonth": 996,
     "timeYear": 993,
     "dailyMinutesDown": {}
   },
@@ -240,7 +240,7 @@
     "time": 740,
     "timeDay": 279,
     "timeWeek": 633,
-    "timeMonth": 821,
+    "timeMonth": 843,
     "timeYear": 740,
     "dailyMinutesDown": {}
   },
@@ -258,7 +258,7 @@
     "time": 499,
     "timeDay": 167,
     "timeWeek": 482,
-    "timeMonth": 517,
+    "timeMonth": 510,
     "timeYear": 499,
     "dailyMinutesDown": {}
   },
@@ -276,7 +276,7 @@
     "time": 643,
     "timeDay": 289,
     "timeWeek": 317,
-    "timeMonth": 702,
+    "timeMonth": 727,
     "timeYear": 643,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "time": 2168,
     "timeDay": 243,
     "timeWeek": 1711,
-    "timeMonth": 1736,
+    "timeMonth": 1751,
     "timeYear": 2168,
     "dailyMinutesDown": {}
   },
@@ -312,7 +312,7 @@
     "time": 689,
     "timeDay": 790,
     "timeWeek": 407,
-    "timeMonth": 789,
+    "timeMonth": 814,
     "timeYear": 689,
     "dailyMinutesDown": {}
   },
@@ -330,7 +330,7 @@
     "time": 656,
     "timeDay": 282,
     "timeWeek": 442,
-    "timeMonth": 784,
+    "timeMonth": 805,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2021-03-06": 16
@@ -350,7 +350,7 @@
     "time": 621,
     "timeDay": 163,
     "timeWeek": 405,
-    "timeMonth": 451,
+    "timeMonth": 460,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2021-03-06": 16
@@ -382,7 +382,7 @@
     "url": "https://snapcraft.io/store",
     "icon": "https://favicons.githubusercontent.com/snapcraft.io",
     "slug": "snapcraft-io-store-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -632,7 +632,7 @@
     "time": 808,
     "timeDay": 284,
     "timeWeek": 590,
-    "timeMonth": 963,
+    "timeMonth": 986,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2021-01-19": 39
@@ -652,7 +652,7 @@
     "time": 2705,
     "timeDay": 1582,
     "timeWeek": 1833,
-    "timeMonth": 2749,
+    "timeMonth": 2019,
     "timeYear": 2705,
     "dailyMinutesDown": {
       "2021-03-03": 30,
