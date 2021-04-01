@@ -1,7 +1,7 @@
 url: https://ubuntu.com/appliance/portfolio
-status: down
-code: 503
-responseTime: 77
-lastUpdated: 2021-04-01T05:59:32.748Z
+status: up
+code: 200
+responseTime: 253
+lastUpdated: 2021-04-01T06:08:23.097Z
 startTime: Fri Jan 22 2021 13:08:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
