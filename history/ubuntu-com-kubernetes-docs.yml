@@ -1,7 +1,7 @@
 url: https://ubuntu.com/kubernetes/docs
-status: down
-code: 503
-responseTime: 78
-lastUpdated: 2021-04-01T05:59:31.002Z
+status: up
+code: 200
+responseTime: 232
+lastUpdated: 2021-04-01T06:08:18.667Z
 startTime: Fri Jan 22 2021 13:08:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
