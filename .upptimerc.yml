@@ -74,6 +74,8 @@ sites:
     url: https://maas.io/docs
   - name: microk8s.io
     url: https://microk8s.io
+  - name: microk8s.io/docs
+    url: https://microk8s.io/docs/release-notes
   - name: multipass.run
     url: https://multipass.run
   - name: mir-server.io
