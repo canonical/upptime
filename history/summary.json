@@ -181,7 +181,7 @@
     "time": 1579,
     "timeDay": 286,
     "timeWeek": 687,
-    "timeMonth": 772,
+    "timeMonth": 793,
     "timeYear": 1579,
     "dailyMinutesDown": {
       "2021-03-06": 18,
@@ -202,7 +202,7 @@
     "time": 587,
     "timeDay": 325,
     "timeWeek": 218,
-    "timeMonth": 512,
+    "timeMonth": 529,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2021-03-06": 18
@@ -222,7 +222,7 @@
     "time": 877,
     "timeDay": 289,
     "timeWeek": 529,
-    "timeMonth": 696,
+    "timeMonth": 710,
     "timeYear": 877,
     "dailyMinutesDown": {}
   },
@@ -240,7 +240,7 @@
     "time": 823,
     "timeDay": 384,
     "timeWeek": 694,
-    "timeMonth": 930,
+    "timeMonth": 912,
     "timeYear": 823,
     "dailyMinutesDown": {}
   },
@@ -258,7 +258,7 @@
     "time": 527,
     "timeDay": 169,
     "timeWeek": 169,
-    "timeMonth": 578,
+    "timeMonth": 608,
     "timeYear": 527,
     "dailyMinutesDown": {}
   },
@@ -276,7 +276,7 @@
     "time": 564,
     "timeDay": 289,
     "timeWeek": 591,
-    "timeMonth": 427,
+    "timeMonth": 449,
     "timeYear": 564,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "time": 2042,
     "timeDay": 404,
     "timeWeek": 972,
-    "timeMonth": 1775,
+    "timeMonth": 1745,
     "timeYear": 2042,
     "dailyMinutesDown": {}
   },
@@ -312,7 +312,7 @@
     "time": 691,
     "timeDay": 283,
     "timeWeek": 183,
-    "timeMonth": 662,
+    "timeMonth": 681,
     "timeYear": 691,
     "dailyMinutesDown": {}
   },
@@ -350,7 +350,7 @@
     "time": 710,
     "timeDay": 144,
     "timeWeek": 163,
-    "timeMonth": 948,
+    "timeMonth": 981,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2021-03-06": 16
@@ -383,11 +383,11 @@
     "icon": "https://favicons.githubusercontent.com/snapcraft.io",
     "slug": "snapcraft-io-store-page",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 1013,
     "timeDay": 166,
     "timeWeek": 315,
@@ -722,17 +722,17 @@
     "url": "https://microk8s.io/docs/release-notes",
     "icon": "https://favicons.githubusercontent.com/microk8s.io",
     "slug": "microk8s-io-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 283,
-    "timeWeek": 450,
-    "timeMonth": 863,
-    "timeYear": 863,
+    "time": 859,
+    "timeDay": 529,
+    "timeWeek": 491,
+    "timeMonth": 859,
+    "timeYear": 859,
     "dailyMinutesDown": {}
   },
   {
