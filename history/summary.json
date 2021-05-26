@@ -565,7 +565,7 @@
     "url": "https://cn.ubuntu.com",
     "icon": "https://favicons.githubusercontent.com/cn.ubuntu.com",
     "slug": "cn-ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
