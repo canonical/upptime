@@ -1,7 +1,7 @@
 url: https://ubuntu.com/smartstart/guide
-status: down
-code: 503
-responseTime: 16881
-lastUpdated: 2021-06-16T16:04:45.584Z
+status: up
+code: 200
+responseTime: 3210
+lastUpdated: 2021-06-16T16:11:25.761Z
 startTime: Fri Jan 22 2021 13:08:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
