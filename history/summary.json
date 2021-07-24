@@ -112,9 +112,9 @@
     "url": "https://ubuntu.com/advantage",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-advantage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -124,6 +124,7 @@
     "timeMonth": 1406,
     "timeYear": 778,
     "dailyMinutesDown": {
+      "2021-07-24": 0,
       "2021-03-06": 18
     }
   },
@@ -231,18 +232,20 @@
     "url": "https://ubuntu.com/smartstart/guide",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-smart-start-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1221,
-    "timeDay": 16816,
-    "timeWeek": 2979,
-    "timeMonth": 2508,
-    "timeYear": 1221,
-    "dailyMinutesDown": {}
+    "time": 1216,
+    "timeDay": 8447,
+    "timeWeek": 2689,
+    "timeMonth": 2446,
+    "timeYear": 1216,
+    "dailyMinutesDown": {
+      "2021-07-24": 0
+    }
   },
   {
     "name": "Ubuntu.com appliances portfolio",
@@ -525,18 +528,19 @@
     "url": "https://certification.ubuntu.com",
     "icon": "https://favicons.githubusercontent.com/certification.ubuntu.com",
     "slug": "certification-ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 912,
-    "timeDay": 930,
-    "timeWeek": 1760,
-    "timeMonth": 2379,
-    "timeYear": 912,
+    "time": 910,
+    "timeDay": 755,
+    "timeWeek": 1642,
+    "timeMonth": 2324,
+    "timeYear": 910,
     "dailyMinutesDown": {
+      "2021-07-24": 0,
       "2021-01-19": 39
     }
   },
