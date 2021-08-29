@@ -780,10 +780,10 @@
     "url": "https://microstack.run",
     "icon": "https://favicons.githubusercontent.com/microstack.run",
     "slug": "microstack-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 469,
@@ -792,6 +792,7 @@
     "timeMonth": 505,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2021-08-29": 1,
       "2021-01-19": 39
     }
   },
