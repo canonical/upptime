@@ -231,10 +231,10 @@
     "url": "https://ubuntu.com/smartstart/guide",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-smart-start-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1497,
@@ -242,7 +242,9 @@
     "timeWeek": 2112,
     "timeMonth": 2242,
     "timeYear": 1497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-07": 1
+    }
   },
   {
     "name": "Ubuntu.com appliances portfolio",
@@ -525,19 +527,19 @@
     "url": "https://certification.ubuntu.com",
     "icon": "https://favicons.githubusercontent.com/certification.ubuntu.com",
     "slug": "certification-ubuntu-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1117,
-    "timeDay": 2178,
-    "timeWeek": 1593,
-    "timeMonth": 1774,
-    "timeYear": 1117,
+    "time": 1194,
+    "timeDay": 9067,
+    "timeWeek": 3525,
+    "timeMonth": 2213,
+    "timeYear": 1194,
     "dailyMinutesDown": {
-      "2021-09-07": 1,
+      "2021-09-07": 11,
       "2021-01-19": 39
     }
   },
