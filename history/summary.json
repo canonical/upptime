@@ -231,18 +231,20 @@
     "url": "https://ubuntu.com/smartstart/guide",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-smart-start-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1495,
-    "timeDay": 600,
-    "timeWeek": 1462,
-    "timeMonth": 1779,
-    "timeYear": 1495,
-    "dailyMinutesDown": {}
+    "time": 1490,
+    "timeDay": 355,
+    "timeWeek": 1312,
+    "timeMonth": 1741,
+    "timeYear": 1490,
+    "dailyMinutesDown": {
+      "2021-09-13": 0
+    }
   },
   {
     "name": "Ubuntu.com appliances portfolio",
