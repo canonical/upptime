@@ -240,7 +240,7 @@
     "time": 1615,
     "timeDay": 2403,
     "timeWeek": 5403,
-    "timeMonth": 2446,
+    "timeMonth": 2501,
     "timeYear": 1615,
     "dailyMinutesDown": {}
   },
@@ -534,7 +534,7 @@
     "time": 1331,
     "timeDay": 4300,
     "timeWeek": 1602,
-    "timeMonth": 3102,
+    "timeMonth": 2549,
     "timeYear": 1331,
     "dailyMinutesDown": {
       "2021-01-19": 39
@@ -664,18 +664,19 @@
     "url": "https://maas.io",
     "icon": "https://favicons.githubusercontent.com/maas.io",
     "slug": "maas-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 656,
-    "timeDay": 431,
-    "timeWeek": 518,
-    "timeMonth": 910,
-    "timeYear": 656,
+    "time": 655,
+    "timeDay": 344,
+    "timeWeek": 485,
+    "timeMonth": 889,
+    "timeYear": 655,
     "dailyMinutesDown": {
+      "2021-10-07": 1,
       "2021-01-19": 39
     }
   },
@@ -684,18 +685,20 @@
     "url": "https://maas.io/docs",
     "icon": "https://favicons.githubusercontent.com/maas.io",
     "slug": "maas-io-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1577,
-    "timeDay": 364,
-    "timeWeek": 333,
-    "timeMonth": 306,
-    "timeYear": 1577,
-    "dailyMinutesDown": {}
+    "time": 1571,
+    "timeDay": 220,
+    "timeWeek": 301,
+    "timeMonth": 298,
+    "timeYear": 1571,
+    "dailyMinutesDown": {
+      "2021-10-07": 1
+    }
   },
   {
     "name": "microk8s.io",
