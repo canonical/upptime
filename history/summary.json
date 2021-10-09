@@ -114,9 +114,9 @@
     "slug": "ubuntu-com-advantage",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1206,
     "timeDay": 323,
@@ -124,7 +124,7 @@
     "timeMonth": 2030,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2021-10-09": 2,
+      "2021-10-09": 12,
       "2021-03-06": 18
     }
   },
@@ -234,9 +234,9 @@
     "slug": "ubuntu-com-smart-start-guide",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1606,
     "timeDay": 730,
@@ -244,7 +244,7 @@
     "timeMonth": 2401,
     "timeYear": 1606,
     "dailyMinutesDown": {
-      "2021-10-09": 2
+      "2021-10-09": 12
     }
   },
   {
@@ -410,9 +410,9 @@
     "slug": "charmhub-io",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 750,
     "timeDay": 525,
@@ -420,7 +420,7 @@
     "timeMonth": 573,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2021-10-09": 2,
+      "2021-10-09": 12,
       "2021-01-19": 39
     }
   },
@@ -431,9 +431,9 @@
     "slug": "vanilla-framework",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 468,
     "timeDay": 1030,
@@ -441,7 +441,7 @@
     "timeMonth": 490,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2021-10-09": 2,
+      "2021-10-09": 12,
       "2021-01-19": 39
     }
   },
@@ -452,9 +452,9 @@
     "slug": "jaas-ai",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 660,
     "timeDay": 572,
@@ -462,7 +462,7 @@
     "timeMonth": 648,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2021-10-09": 2,
+      "2021-10-09": 12,
       "2021-01-19": 39
     }
   },
@@ -471,18 +471,19 @@
     "url": "https://jaas.ai/models",
     "icon": "https://favicons.githubusercontent.com/jaas.ai",
     "slug": "jaas-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 185,
-    "timeDay": 93,
-    "timeWeek": 198,
-    "timeMonth": 140,
-    "timeYear": 185,
+    "time": 184,
+    "timeDay": 84,
+    "timeWeek": 182,
+    "timeMonth": 138,
+    "timeYear": 184,
     "dailyMinutesDown": {
+      "2021-10-09": 4,
       "2021-01-19": 39
     }
   },
@@ -491,18 +492,19 @@
     "url": "https://anbox-cloud.io",
     "icon": "https://favicons.githubusercontent.com/anbox-cloud.io",
     "slug": "anbox-cloud-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 523,
-    "timeDay": 363,
-    "timeWeek": 384,
-    "timeMonth": 481,
-    "timeYear": 523,
+    "time": 538,
+    "timeDay": 2558,
+    "timeWeek": 931,
+    "timeMonth": 619,
+    "timeYear": 538,
     "dailyMinutesDown": {
+      "2021-10-09": 4,
       "2021-01-19": 39
     }
   },
@@ -533,9 +535,9 @@
     "slug": "certification-ubuntu-com",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1332,
     "timeDay": 860,
@@ -543,7 +545,7 @@
     "timeMonth": 2502,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2021-10-09": 1,
+      "2021-10-09": 12,
       "2021-01-19": 39
     }
   },
@@ -552,18 +554,19 @@
     "url": "https://charmed-osm.com",
     "icon": "https://favicons.githubusercontent.com/charmed-osm.com",
     "slug": "charmed-osm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 499,
-    "timeDay": 486,
-    "timeWeek": 440,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "time": 527,
+    "timeDay": 2524,
+    "timeWeek": 1260,
+    "timeMonth": 746,
+    "timeYear": 527,
     "dailyMinutesDown": {
+      "2021-10-09": 3,
       "2021-01-19": 39
     }
   },
@@ -612,19 +615,19 @@
     "url": "https://jp.ubuntu.com",
     "icon": "https://favicons.githubusercontent.com/jp.ubuntu.com",
     "slug": "jp-ubuntu-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 442,
-    "timeWeek": 390,
-    "timeMonth": 451,
-    "timeYear": 412,
+    "time": 411,
+    "timeDay": 361,
+    "timeWeek": 369,
+    "timeMonth": 443,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2021-10-09": 1
+      "2021-10-09": 9
     }
   },
   {
@@ -632,19 +635,19 @@
     "url": "https://juju.is",
     "icon": "https://favicons.githubusercontent.com/juju.is",
     "slug": "juju-is",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 730,
-    "timeDay": 2205,
-    "timeWeek": 966,
-    "timeMonth": 759,
-    "timeYear": 730,
+    "time": 760,
+    "timeDay": 4663,
+    "timeWeek": 1923,
+    "timeMonth": 1035,
+    "timeYear": 760,
     "dailyMinutesDown": {
-      "2021-10-09": 1,
+      "2021-10-09": 9,
       "2021-01-19": 39
     }
   },
@@ -653,11 +656,11 @@
     "url": "https://kubeflow-news.com",
     "icon": "https://favicons.githubusercontent.com/kubeflow-news.com",
     "slug": "kubeflow-news-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1364,
     "timeDay": 449,
@@ -665,6 +668,7 @@
     "timeMonth": 584,
     "timeYear": 1364,
     "dailyMinutesDown": {
+      "2021-10-09": 2,
       "2021-03-03": 30,
       "2021-01-19": 39
     }
@@ -676,9 +680,9 @@
     "slug": "maas-io",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 651,
     "timeDay": 477,
@@ -686,7 +690,7 @@
     "timeMonth": 840,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2021-10-09": 1,
+      "2021-10-09": 12,
       "2021-01-19": 39
     }
   },
@@ -697,9 +701,9 @@
     "slug": "maas-io-docs",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1542,
     "timeDay": 203,
@@ -707,7 +711,7 @@
     "timeMonth": 295,
     "timeYear": 1542,
     "dailyMinutesDown": {
-      "2021-10-09": 1
+      "2021-10-09": 12
     }
   },
   {
@@ -717,9 +721,9 @@
     "slug": "microk8s-io",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 587,
     "timeDay": 3068,
@@ -727,7 +731,7 @@
     "timeMonth": 643,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2021-10-09": 1,
+      "2021-10-09": 12,
       "2021-01-19": 39
     }
   },
@@ -738,9 +742,9 @@
     "slug": "microk8s-io-docs",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 201,
@@ -748,7 +752,7 @@
     "timeMonth": 295,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2021-10-09": 1
+      "2021-10-09": 12
     }
   },
   {
@@ -756,10 +760,10 @@
     "url": "https://multipass.run",
     "icon": "https://favicons.githubusercontent.com/multipass.run",
     "slug": "multipass-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 484,
@@ -768,6 +772,7 @@
     "timeMonth": 498,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2021-10-09": 1,
       "2021-01-19": 39
     }
   },
@@ -776,18 +781,19 @@
     "url": "https://mir-server.io",
     "icon": "https://favicons.githubusercontent.com/mir-server.io",
     "slug": "mir-server-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 499,
-    "timeDay": 269,
-    "timeWeek": 290,
-    "timeMonth": 368,
-    "timeYear": 499,
+    "time": 506,
+    "timeDay": 1504,
+    "timeWeek": 596,
+    "timeMonth": 444,
+    "timeYear": 506,
     "dailyMinutesDown": {
+      "2021-10-09": 1,
       "2021-01-19": 39
     }
   },
@@ -798,9 +804,9 @@
     "slug": "microstack-run",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 478,
     "timeDay": 924,
@@ -808,7 +814,7 @@
     "timeMonth": 537,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2021-10-09": 1,
+      "2021-10-09": 12,
       "2021-01-19": 39
     }
   },
