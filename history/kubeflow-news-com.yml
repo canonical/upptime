@@ -1,7 +1,7 @@
 url: https://kubeflow-news.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-10-09T22:14:39.285Z
+status: up
+code: 200
+responseTime: 630
+lastUpdated: 2021-10-09T22:30:12.830Z
 startTime: Thu Jan 07 2021 17:08:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
