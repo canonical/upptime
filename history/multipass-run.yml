@@ -1,7 +1,7 @@
 url: https://multipass.run
-status: down
-code: 503
-responseTime: 422
-lastUpdated: 2021-10-10T07:30:45.314Z
+status: up
+code: 200
+responseTime: 574
+lastUpdated: 2021-10-10T07:35:22.450Z
 startTime: Thu Jan 07 2021 17:09:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
