@@ -1,7 +1,7 @@
 url: https://maas.io
-status: down
-code: 503
-responseTime: 526
-lastUpdated: 2021-10-30T13:20:50.560Z
+status: up
+code: 200
+responseTime: 380
+lastUpdated: 2021-10-30T13:30:19.646Z
 startTime: Thu Jan 07 2021 17:08:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
