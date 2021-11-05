@@ -1,7 +1,7 @@
 url: https://ubuntu.com/advantage
-status: down
-code: 503
-responseTime: 81
-lastUpdated: 2021-11-05T14:01:33.710Z
+status: up
+code: 200
+responseTime: 257
+lastUpdated: 2021-11-05T14:09:36.497Z
 startTime: Fri Jan 22 2021 13:08:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
