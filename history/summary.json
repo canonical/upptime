@@ -135,9 +135,9 @@
     "slug": "ubuntu-com-tutorials",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 1096,
     "timeDay": 2850,
@@ -145,7 +145,8 @@
     "timeMonth": 1867,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2021-11-04": 55,
+      "2021-11-05": 7,
+      "2021-11-04": 57,
       "2021-03-06": 18
     }
   },
