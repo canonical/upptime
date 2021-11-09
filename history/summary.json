@@ -112,18 +112,19 @@
     "url": "https://ubuntu.com/advantage",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-advantage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1220,
-    "timeDay": 1692,
-    "timeWeek": 608,
-    "timeMonth": 1253,
-    "timeYear": 1220,
+    "time": 1216,
+    "timeDay": 1288,
+    "timeWeek": 564,
+    "timeMonth": 1272,
+    "timeYear": 1216,
     "dailyMinutesDown": {
+      "2021-11-09": 0,
       "2021-10-09": 17,
       "2021-03-06": 18
     }
@@ -234,18 +235,19 @@
     "url": "https://ubuntu.com/smartstart/guide",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-smart-start-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1626,
-    "timeDay": 789,
-    "timeWeek": 1059,
-    "timeMonth": 1745,
-    "timeYear": 1626,
+    "time": 1622,
+    "timeDay": 709,
+    "timeWeek": 984,
+    "timeMonth": 1708,
+    "timeYear": 1622,
     "dailyMinutesDown": {
+      "2021-11-09": 0,
       "2021-10-09": 17
     }
   },
@@ -419,7 +421,7 @@
     "time": 765,
     "timeDay": 894,
     "timeWeek": 690,
-    "timeMonth": 875,
+    "timeMonth": 897,
     "timeYear": 765,
     "dailyMinutesDown": {
       "2021-10-09": 18,
@@ -544,7 +546,7 @@
     "time": 1358,
     "timeDay": 945,
     "timeWeek": 1063,
-    "timeMonth": 1522,
+    "timeMonth": 1553,
     "timeYear": 1358,
     "dailyMinutesDown": {
       "2021-10-09": 25,
@@ -565,7 +567,7 @@
     "time": 539,
     "timeDay": 699,
     "timeWeek": 619,
-    "timeMonth": 861,
+    "timeMonth": 883,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2021-01-19": 39
@@ -663,7 +665,7 @@
     "time": 1292,
     "timeDay": 719,
     "timeWeek": 675,
-    "timeMonth": 619,
+    "timeMonth": 629,
     "timeYear": 1292,
     "dailyMinutesDown": {
       "2021-10-09": 16,
@@ -685,7 +687,7 @@
     "time": 679,
     "timeDay": 847,
     "timeWeek": 592,
-    "timeMonth": 826,
+    "timeMonth": 840,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2021-10-15": 16,
@@ -707,7 +709,7 @@
     "time": 1371,
     "timeDay": 354,
     "timeWeek": 273,
-    "timeMonth": 418,
+    "timeMonth": 427,
     "timeYear": 1371,
     "dailyMinutesDown": {
       "2021-10-15": 16,
