@@ -234,10 +234,10 @@
     "url": "https://ubuntu.com/smartstart/guide",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-smart-start-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1554,
@@ -246,6 +246,7 @@
     "timeMonth": 949,
     "timeYear": 1554,
     "dailyMinutesDown": {
+      "2021-11-23": 1,
       "2021-10-09": 17
     }
   },
