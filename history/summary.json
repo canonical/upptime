@@ -431,19 +431,19 @@
     "url": "https://vanillaframework.io",
     "icon": "https://favicons.githubusercontent.com/vanillaframework.io",
     "slug": "vanilla-framework",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 559,
-    "timeDay": 6507,
-    "timeWeek": 3214,
-    "timeMonth": 1405,
+    "timeDay": 5478,
+    "timeWeek": 2973,
+    "timeMonth": 1374,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2021-12-14": 1,
+      "2021-12-14": 7,
       "2021-10-09": 26,
       "2021-01-19": 39
     }
@@ -497,9 +497,9 @@
     "slug": "anbox-cloud-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 548,
     "timeDay": 646,
@@ -507,7 +507,6 @@
     "timeMonth": 606,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2021-12-14": 9,
       "2021-10-09": 17,
       "2021-01-19": 39
     }
