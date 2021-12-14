@@ -412,9 +412,9 @@
     "slug": "charmhub-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 759,
     "timeDay": 964,
@@ -422,7 +422,6 @@
     "timeMonth": 715,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2021-12-14": 10,
       "2021-10-09": 18,
       "2021-01-19": 39
     }
@@ -497,9 +496,9 @@
     "slug": "anbox-cloud-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 542,
     "timeDay": 624,
@@ -507,7 +506,6 @@
     "timeMonth": 583,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2021-12-14": 10,
       "2021-10-09": 17,
       "2021-01-19": 39
     }
@@ -802,19 +800,19 @@
     "url": "https://microstack.run",
     "icon": "https://favicons.githubusercontent.com/microstack.run",
     "slug": "microstack-run",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 505,
-    "timeDay": 777,
-    "timeWeek": 697,
-    "timeMonth": 675,
+    "timeDay": 753,
+    "timeWeek": 688,
+    "timeMonth": 672,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2021-12-14": 1,
+      "2021-12-14": 8,
       "2021-10-09": 25,
       "2021-01-19": 39
     }
