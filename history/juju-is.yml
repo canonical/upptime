@@ -1,7 +1,7 @@
 url: https://juju.is
-status: down
-code: 503
-responseTime: 511
-lastUpdated: 2021-12-14T03:26:07.057Z
+status: up
+code: 200
+responseTime: 973
+lastUpdated: 2021-12-14T03:34:29.544Z
 startTime: Thu Jan 07 2021 17:08:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
