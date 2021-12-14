@@ -228,18 +228,16 @@
     "slug": "ubuntu-com-ceph-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 940,
     "timeDay": 214,
     "timeWeek": 419,
     "timeMonth": 817,
     "timeYear": 940,
-    "dailyMinutesDown": {
-      "2021-12-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com smart start guide",
@@ -247,18 +245,17 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-smart-start-guide",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1474,
     "timeDay": 219,
     "timeWeek": 365,
     "timeMonth": 655,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2021-12-14": 12,
       "2021-10-09": 17
     }
   },
@@ -269,18 +266,16 @@
     "slug": "ubuntu-com-appliances-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
     "timeDay": 237,
     "timeWeek": 230,
     "timeMonth": 211,
     "timeYear": 383,
-    "dailyMinutesDown": {
-      "2021-12-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com appliance page",
@@ -289,18 +284,16 @@
     "slug": "ubuntu-com-appliance-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 151,
     "timeWeek": 175,
     "timeMonth": 199,
     "timeYear": 507,
-    "dailyMinutesDown": {
-      "2021-12-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE list",
@@ -309,18 +302,16 @@
     "slug": "ubuntu-com-cve-list",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1023,
     "timeDay": 565,
     "timeWeek": 505,
     "timeMonth": 688,
     "timeYear": 1023,
-    "dailyMinutesDown": {
-      "2021-12-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE page",
@@ -329,18 +320,16 @@
     "slug": "ubuntu-com-cve-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 871,
     "timeDay": 175,
     "timeWeek": 198,
     "timeMonth": 395,
     "timeYear": 871,
-    "dailyMinutesDown": {
-      "2021-12-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com USN list",
@@ -348,18 +337,17 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-usn-list",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 740,
     "timeDay": 167,
     "timeWeek": 525,
     "timeMonth": 798,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2021-12-14": 12,
       "2021-03-06": 16
     }
   },
@@ -369,18 +357,17 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-usn-page",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 550,
     "timeDay": 201,
     "timeWeek": 478,
     "timeMonth": 460,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2021-12-14": 12,
       "2021-03-06": 16
     }
   },
@@ -433,18 +420,19 @@
     "url": "https://charmhub.io",
     "icon": "https://favicons.githubusercontent.com/charmhub.io",
     "slug": "charmhub-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 757,
-    "timeDay": 802,
-    "timeWeek": 739,
-    "timeMonth": 708,
+    "timeDay": 782,
+    "timeWeek": 729,
+    "timeMonth": 704,
     "timeYear": 757,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-10-09": 18,
       "2021-01-19": 39
     }
@@ -559,18 +547,17 @@
     "icon": "https://favicons.githubusercontent.com/certification.ubuntu.com",
     "slug": "certification-ubuntu-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1339,
     "timeDay": 951,
     "timeWeek": 1035,
     "timeMonth": 1244,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2021-12-14": 12,
       "2021-10-09": 25,
       "2021-01-19": 39
     }
@@ -744,18 +731,17 @@
     "icon": "https://favicons.githubusercontent.com/microk8s.io",
     "slug": "microk8s-io",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 584,
     "timeDay": 937,
     "timeWeek": 732,
     "timeMonth": 621,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2021-12-14": 11,
       "2021-10-09": 25,
       "2021-01-19": 39
     }
@@ -825,18 +811,19 @@
     "url": "https://microstack.run",
     "icon": "https://favicons.githubusercontent.com/microstack.run",
     "slug": "microstack-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 510,
-    "timeDay": 817,
-    "timeWeek": 745,
-    "timeMonth": 700,
-    "timeYear": 510,
+    "time": 511,
+    "timeDay": 807,
+    "timeWeek": 742,
+    "timeMonth": 699,
+    "timeYear": 511,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-10-09": 25,
       "2021-01-19": 39
     }
