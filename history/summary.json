@@ -185,9 +185,9 @@
     "slug": "ubuntu-com-server-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 822,
     "timeDay": 273,
@@ -195,7 +195,6 @@
     "timeMonth": 506,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-03-06": 18,
       "2021-02-10": 17
     }
@@ -206,18 +205,17 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-kubernetes-docs",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 648,
     "timeDay": 188,
     "timeWeek": 209,
     "timeMonth": 252,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-03-06": 18
     }
   },
@@ -228,18 +226,16 @@
     "slug": "ubuntu-com-ceph-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 936,
     "timeDay": 214,
     "timeWeek": 399,
     "timeMonth": 790,
     "timeYear": 936,
-    "dailyMinutesDown": {
-      "2021-12-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com smart start guide",
@@ -247,18 +243,17 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-smart-start-guide",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1468,
     "timeDay": 221,
     "timeWeek": 354,
     "timeMonth": 641,
     "timeYear": 1468,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-10-09": 17
     }
   },
@@ -269,18 +264,16 @@
     "slug": "ubuntu-com-appliances-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 224,
     "timeWeek": 221,
     "timeMonth": 208,
     "timeYear": 382,
-    "dailyMinutesDown": {
-      "2021-12-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com appliance page",
@@ -289,18 +282,16 @@
     "slug": "ubuntu-com-appliance-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 505,
     "timeDay": 151,
     "timeWeek": 173,
     "timeMonth": 197,
     "timeYear": 505,
-    "dailyMinutesDown": {
-      "2021-12-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE list",
@@ -309,18 +300,16 @@
     "slug": "ubuntu-com-cve-list",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1019,
     "timeDay": 538,
     "timeWeek": 490,
     "timeMonth": 672,
     "timeYear": 1019,
-    "dailyMinutesDown": {
-      "2021-12-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE page",
@@ -329,18 +318,16 @@
     "slug": "ubuntu-com-cve-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 867,
     "timeDay": 172,
     "timeWeek": 194,
     "timeMonth": 384,
     "timeYear": 867,
-    "dailyMinutesDown": {
-      "2021-12-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com USN list",
@@ -349,9 +336,9 @@
     "slug": "ubuntu-com-usn-list",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 737,
     "timeDay": 173,
@@ -359,7 +346,6 @@
     "timeMonth": 771,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-03-06": 16
     }
   },
@@ -370,9 +356,9 @@
     "slug": "ubuntu-com-usn-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 195,
@@ -380,7 +366,6 @@
     "timeMonth": 446,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-03-06": 16
     }
   },
@@ -517,19 +502,19 @@
     "url": "https://anbox-cloud.io",
     "icon": "https://favicons.githubusercontent.com/anbox-cloud.io",
     "slug": "anbox-cloud-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 548,
-    "timeDay": 672,
-    "timeWeek": 646,
-    "timeMonth": 615,
+    "timeDay": 669,
+    "timeWeek": 644,
+    "timeMonth": 614,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2021-12-14": 1,
+      "2021-12-14": 7,
       "2021-10-09": 17,
       "2021-01-19": 39
     }
