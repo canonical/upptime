@@ -207,9 +207,9 @@
     "slug": "ubuntu-com-kubernetes-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 635,
     "timeDay": 172,
@@ -217,7 +217,7 @@
     "timeMonth": 233,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2021-12-14": 21,
+      "2021-12-14": 15,
       "2021-03-06": 18
     }
   },
@@ -228,9 +228,9 @@
     "slug": "ubuntu-com-ceph-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 916,
     "timeDay": 205,
@@ -238,7 +238,7 @@
     "timeMonth": 679,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2021-12-14": 21
+      "2021-12-14": 15
     }
   },
   {
@@ -248,9 +248,9 @@
     "slug": "ubuntu-com-smart-start-guide",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1440,
     "timeDay": 222,
@@ -258,7 +258,7 @@
     "timeMonth": 579,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2021-12-14": 21,
+      "2021-12-14": 15,
       "2021-10-09": 17
     }
   },
@@ -269,9 +269,9 @@
     "slug": "ubuntu-com-appliances-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 375,
     "timeDay": 191,
@@ -279,7 +279,7 @@
     "timeMonth": 195,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2021-12-14": 21
+      "2021-12-14": 15
     }
   },
   {
@@ -289,9 +289,9 @@
     "slug": "ubuntu-com-appliance-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 495,
     "timeDay": 149,
@@ -299,7 +299,7 @@
     "timeMonth": 187,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2021-12-14": 21
+      "2021-12-14": 15
     }
   },
   {
@@ -309,9 +309,9 @@
     "slug": "ubuntu-com-cve-list",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 998,
     "timeDay": 365,
@@ -319,7 +319,7 @@
     "timeMonth": 594,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2021-12-14": 21
+      "2021-12-14": 15
     }
   },
   {
@@ -329,9 +329,9 @@
     "slug": "ubuntu-com-cve-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 847,
     "timeDay": 159,
@@ -339,7 +339,7 @@
     "timeMonth": 339,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2021-12-14": 21
+      "2021-12-14": 15
     }
   },
   {
@@ -349,9 +349,9 @@
     "slug": "ubuntu-com-usn-list",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 721,
     "timeDay": 163,
@@ -359,7 +359,7 @@
     "timeMonth": 656,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2021-12-14": 21,
+      "2021-12-14": 15,
       "2021-03-06": 16
     }
   },
@@ -370,9 +370,9 @@
     "slug": "ubuntu-com-usn-page",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 537,
     "timeDay": 174,
@@ -380,7 +380,7 @@
     "timeMonth": 390,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2021-12-14": 21,
+      "2021-12-14": 15,
       "2021-03-06": 16
     }
   },
@@ -456,9 +456,9 @@
     "slug": "vanilla-framework",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 655,
     "timeDay": 8731,
@@ -466,7 +466,6 @@
     "timeMonth": 2299,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2021-12-14": 5,
       "2021-10-09": 26,
       "2021-01-19": 39
     }
@@ -518,18 +517,19 @@
     "url": "https://anbox-cloud.io",
     "icon": "https://favicons.githubusercontent.com/anbox-cloud.io",
     "slug": "anbox-cloud-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 548,
-    "timeDay": 634,
-    "timeWeek": 620,
-    "timeMonth": 603,
+    "timeDay": 639,
+    "timeWeek": 624,
+    "timeMonth": 606,
     "timeYear": 548,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-10-09": 17,
       "2021-01-19": 39
     }
