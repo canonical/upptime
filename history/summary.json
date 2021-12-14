@@ -435,9 +435,9 @@
     "slug": "charmhub-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 754,
     "timeDay": 705,
@@ -445,7 +445,6 @@
     "timeMonth": 684,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2021-12-14": 6,
       "2021-10-09": 18,
       "2021-01-19": 39
     }
@@ -520,9 +519,9 @@
     "slug": "anbox-cloud-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 550,
     "timeDay": 640,
@@ -530,7 +529,6 @@
     "timeMonth": 609,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2021-12-14": 6,
       "2021-10-09": 17,
       "2021-01-19": 39
     }
@@ -704,9 +702,9 @@
     "slug": "maas-io",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 672,
     "timeDay": 667,
@@ -714,7 +712,6 @@
     "timeMonth": 630,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2021-12-14": 6,
       "2021-10-15": 16,
       "2021-10-09": 25,
       "2021-01-19": 39
@@ -828,19 +825,19 @@
     "url": "https://microstack.run",
     "icon": "https://favicons.githubusercontent.com/microstack.run",
     "slug": "microstack-run",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 522,
-    "timeDay": 930,
-    "timeWeek": 852,
-    "timeMonth": 763,
-    "timeYear": 522,
+    "time": 521,
+    "timeDay": 905,
+    "timeWeek": 835,
+    "timeMonth": 756,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2021-12-14": 1,
+      "2021-12-14": 6,
       "2021-10-09": 25,
       "2021-01-19": 39
     }
