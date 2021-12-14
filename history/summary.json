@@ -537,9 +537,9 @@
     "slug": "certification-ubuntu-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1350,
     "timeDay": 929,
@@ -547,7 +547,6 @@
     "timeMonth": 1318,
     "timeYear": 1350,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-10-09": 25,
       "2021-01-19": 39
     }
@@ -577,18 +576,19 @@
     "url": "https://cn.ubuntu.com",
     "icon": "https://favicons.githubusercontent.com/cn.ubuntu.com",
     "slug": "cn-ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 509,
-    "timeDay": 520,
-    "timeWeek": 552,
-    "timeMonth": 633,
+    "timeDay": 521,
+    "timeWeek": 550,
+    "timeMonth": 630,
     "timeYear": 509,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-01-19": 39
     }
   },
@@ -599,9 +599,9 @@
     "slug": "dqlite-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 442,
     "timeDay": 396,
@@ -609,7 +609,6 @@
     "timeMonth": 461,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-01-19": 39
     }
   },
@@ -784,9 +783,9 @@
     "slug": "mir-server-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 494,
     "timeDay": 396,
@@ -794,7 +793,6 @@
     "timeMonth": 471,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-01-19": 39
     }
   },
@@ -805,9 +803,9 @@
     "slug": "microstack-run",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 500,
     "timeDay": 561,
@@ -815,7 +813,6 @@
     "timeMonth": 639,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2021-12-14": 7,
       "2021-10-09": 25,
       "2021-01-19": 39
     }
