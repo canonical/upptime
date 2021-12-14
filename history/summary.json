@@ -185,9 +185,9 @@
     "slug": "ubuntu-com-server-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 836,
     "timeDay": 355,
@@ -195,7 +195,6 @@
     "timeMonth": 574,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2021-12-14": 6,
       "2021-03-06": 18,
       "2021-02-10": 17
     }
@@ -206,18 +205,17 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-kubernetes-docs",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 660,
     "timeDay": 240,
     "timeWeek": 251,
     "timeMonth": 277,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2021-12-14": 6,
       "2021-03-06": 18
     }
   },
@@ -228,18 +226,16 @@
     "slug": "ubuntu-com-ceph-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
     "timeDay": 224,
     "timeWeek": 519,
     "timeMonth": 920,
     "timeYear": 953,
-    "dailyMinutesDown": {
-      "2021-12-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com smart start guide",
@@ -248,9 +244,9 @@
     "slug": "ubuntu-com-smart-start-guide",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1492,
     "timeDay": 227,
@@ -258,7 +254,6 @@
     "timeMonth": 707,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2021-12-14": 6,
       "2021-10-09": 17
     }
   },
@@ -269,18 +264,16 @@
     "slug": "ubuntu-com-appliances-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 315,
     "timeWeek": 268,
     "timeMonth": 222,
     "timeYear": 387,
-    "dailyMinutesDown": {
-      "2021-12-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com appliance page",
@@ -289,18 +282,16 @@
     "slug": "ubuntu-com-appliance-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 514,
     "timeDay": 174,
     "timeWeek": 198,
     "timeMonth": 211,
     "timeYear": 514,
-    "dailyMinutesDown": {
-      "2021-12-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE list",
@@ -309,18 +300,16 @@
     "slug": "ubuntu-com-cve-list",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1036,
     "timeDay": 776,
     "timeWeek": 607,
     "timeMonth": 757,
     "timeYear": 1036,
-    "dailyMinutesDown": {
-      "2021-12-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE page",
@@ -329,18 +318,16 @@
     "slug": "ubuntu-com-cve-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 884,
     "timeDay": 195,
     "timeWeek": 220,
     "timeMonth": 436,
     "timeYear": 884,
-    "dailyMinutesDown": {
-      "2021-12-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com USN list",
@@ -349,9 +336,9 @@
     "slug": "ubuntu-com-usn-list",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
     "timeDay": 188,
@@ -359,7 +346,6 @@
     "timeMonth": 907,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2021-12-14": 6,
       "2021-03-06": 16
     }
   },
@@ -370,9 +356,9 @@
     "slug": "ubuntu-com-usn-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 557,
     "timeDay": 230,
@@ -380,7 +366,6 @@
     "timeMonth": 509,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2021-12-14": 6,
       "2021-03-06": 16
     }
   },
@@ -433,18 +418,19 @@
     "url": "https://charmhub.io",
     "icon": "https://favicons.githubusercontent.com/charmhub.io",
     "slug": "charmhub-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 758,
-    "timeDay": 873,
-    "timeWeek": 758,
-    "timeMonth": 711,
-    "timeYear": 758,
+    "time": 759,
+    "timeDay": 877,
+    "timeWeek": 768,
+    "timeMonth": 717,
+    "timeYear": 759,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-10-09": 18,
       "2021-01-19": 39
     }
@@ -475,19 +461,19 @@
     "url": "https://jaas.ai",
     "icon": "https://favicons.githubusercontent.com/jaas.ai",
     "slug": "jaas-ai",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 676,
-    "timeDay": 1353,
-    "timeWeek": 1024,
-    "timeMonth": 776,
-    "timeYear": 676,
+    "time": 677,
+    "timeDay": 1255,
+    "timeWeek": 1010,
+    "timeMonth": 779,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2021-12-14": 1,
+      "2021-12-14": 5,
       "2021-10-09": 26,
       "2021-01-19": 39
     }
