@@ -517,18 +517,19 @@
     "url": "https://anbox-cloud.io",
     "icon": "https://favicons.githubusercontent.com/anbox-cloud.io",
     "slug": "anbox-cloud-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 550,
-    "timeDay": 640,
-    "timeWeek": 626,
-    "timeMonth": 609,
-    "timeYear": 550,
+    "time": 549,
+    "timeDay": 636,
+    "timeWeek": 623,
+    "timeMonth": 607,
+    "timeYear": 549,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-10-09": 17,
       "2021-01-19": 39
     }
@@ -602,9 +603,9 @@
     "slug": "cn-ubuntu-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 515,
     "timeDay": 607,
@@ -612,7 +613,6 @@
     "timeMonth": 631,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2021-12-14": 8,
       "2021-01-19": 39
     }
   },
@@ -661,9 +661,9 @@
     "slug": "juju-is",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 787,
     "timeDay": 832,
@@ -671,7 +671,6 @@
     "timeMonth": 772,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2021-12-14": 8,
       "2021-01-19": 39
     }
   },
@@ -850,17 +849,15 @@
     "slug": "netplan-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 347,
     "timeDay": 703,
     "timeWeek": 579,
     "timeMonth": 524,
     "timeYear": 347,
-    "dailyMinutesDown": {
-      "2021-12-14": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
