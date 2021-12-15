@@ -1,7 +1,7 @@
 url: https://anbox-cloud.io
-status: down
-code: 500
-responseTime: 754
-lastUpdated: 2021-12-15T04:27:27.724Z
+status: up
+code: 200
+responseTime: 724
+lastUpdated: 2021-12-15T04:40:07.460Z
 startTime: Thu Jan 07 2021 17:08:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
