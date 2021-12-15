@@ -519,9 +519,9 @@
     "slug": "anbox-cloud-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 552,
     "timeDay": 643,
@@ -529,6 +529,7 @@
     "timeMonth": 613,
     "timeYear": 552,
     "dailyMinutesDown": {
+      "2021-12-15": 16,
       "2021-10-09": 17,
       "2021-01-19": 39
     }
@@ -538,18 +539,19 @@
     "url": "https://canonical.com",
     "icon": "https://favicons.githubusercontent.com/canonical.com",
     "slug": "canonical-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 444,
-    "timeDay": 885,
-    "timeWeek": 794,
-    "timeMonth": 673,
+    "timeDay": 861,
+    "timeWeek": 779,
+    "timeMonth": 667,
     "timeYear": 444,
     "dailyMinutesDown": {
+      "2021-12-15": 16,
       "2021-01-19": 39
     }
   },
@@ -602,9 +604,9 @@
     "slug": "cn-ubuntu-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 522,
     "timeDay": 680,
@@ -612,6 +614,7 @@
     "timeMonth": 666,
     "timeYear": 522,
     "dailyMinutesDown": {
+      "2021-12-15": 16,
       "2021-12-14": 52,
       "2021-01-19": 39
     }
