@@ -519,9 +519,9 @@
     "slug": "anbox-cloud-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 552,
     "timeDay": 643,
@@ -529,8 +529,6 @@
     "timeMonth": 613,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2021-12-15": 3,
-      "2021-12-14": 10,
       "2021-10-09": 17,
       "2021-01-19": 39
     }
@@ -705,9 +703,9 @@
     "slug": "maas-io",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 683,
     "timeDay": 922,
@@ -715,8 +713,6 @@
     "timeMonth": 728,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2021-12-15": 4,
-      "2021-12-14": 5,
       "2021-10-15": 16,
       "2021-10-09": 25,
       "2021-01-19": 39
