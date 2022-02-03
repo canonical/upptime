@@ -84,8 +84,6 @@ sites:
     url: https://microstack.run
   - name: netplan.io
     url: https://netplan.io
-  - name: maas.io docs
-    url: https://maas.io/docs
 
 status-website:
   baseUrl: /upptime
