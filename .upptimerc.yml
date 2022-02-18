@@ -38,6 +38,14 @@ sites:
     url: https://ubuntu.com/security/notices
   - name: Ubuntu.com USN page
     url: https://ubuntu.com/security/notices/USN-4697-2
+  - name: Ubuntu Security API - CVEs
+    url: https://ubuntu.com/security/cves.json
+  - name: Ubuntu Security API - Notices
+    url: https://ubuntu.com/security/notices.json
+  - name: Ubuntu Security API - CVE page
+    url: https://ubuntu.com/security/cves/CVE-2020-15180.json
+  - name: Ubuntu Security API - USN page
+    url: https://ubuntu.com/security/notices/USN-4697-2.json
   - name: Snapcraft.io
     url: https://snapcraft.io
   - name: Snapcraft.io store page
