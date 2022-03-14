@@ -102,7 +102,7 @@ status-website:
   introMessage: Feel free to visit [our GitHub organisation](https://github.com/canonical-web-and-design) to help us make our websites great!
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/canonical-web-and-design/upptime
 
