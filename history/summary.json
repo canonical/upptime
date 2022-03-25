@@ -646,19 +646,19 @@
     "url": "https://charmed-osm.com",
     "icon": "https://favicons.githubusercontent.com/charmed-osm.com",
     "slug": "charmed-osm-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 642,
-    "timeWeek": 510,
-    "timeMonth": 542,
+    "timeDay": 582,
+    "timeWeek": 505,
+    "timeMonth": 539,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2022-03-25": 1
+      "2022-03-25": 22
     }
   },
   {
