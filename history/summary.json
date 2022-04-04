@@ -4,18 +4,19 @@
     "url": "https://ubuntu.com",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 626,
-    "timeDay": 482,
-    "timeWeek": 566,
-    "timeMonth": 731,
-    "timeYear": 693,
+    "time": 635,
+    "timeDay": 2997,
+    "timeWeek": 1185,
+    "timeMonth": 867,
+    "timeYear": 704,
     "dailyMinutesDown": {
+      "2022-04-04": 1,
       "2022-03-03": 35,
       "2022-01-12": 17,
       "2021-12-14": 15
@@ -36,7 +37,7 @@
     "timeDay": 297,
     "timeWeek": 312,
     "timeMonth": 324,
-    "timeYear": 589,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2022-01-12": 17,
       "2021-12-14": 15
@@ -57,7 +58,7 @@
     "timeDay": 296,
     "timeWeek": 327,
     "timeMonth": 500,
-    "timeYear": 909,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2022-01-12": 17,
       "2021-12-14": 15
@@ -120,7 +121,7 @@
     "timeDay": 161,
     "timeWeek": 237,
     "timeMonth": 1519,
-    "timeYear": 1254,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2022-01-12": 23,
       "2021-12-14": 15,
@@ -186,7 +187,7 @@
     "timeDay": 288,
     "timeWeek": 457,
     "timeMonth": 357,
-    "timeYear": 450,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2022-01-12": 17,
       "2021-12-14": 15
@@ -207,7 +208,7 @@
     "timeDay": 156,
     "timeWeek": 234,
     "timeMonth": 271,
-    "timeYear": 537,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2022-01-12": 17,
       "2021-12-14": 15
@@ -249,7 +250,7 @@
     "timeDay": 410,
     "timeWeek": 318,
     "timeMonth": 354,
-    "timeYear": 1332,
+    "timeYear": 1337,
     "dailyMinutesDown": {
       "2022-03-03": 34,
       "2022-01-12": 23,
@@ -272,7 +273,7 @@
     "timeDay": 154,
     "timeWeek": 225,
     "timeMonth": 205,
-    "timeYear": 296,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2022-01-12": 17,
       "2021-12-14": 15
@@ -293,7 +294,7 @@
     "timeDay": 173,
     "timeWeek": 197,
     "timeMonth": 194,
-    "timeYear": 381,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2022-01-12": 17,
       "2021-12-14": 15
