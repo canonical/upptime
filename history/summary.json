@@ -135,9 +135,9 @@
     "slug": "ubuntu-com-tutorials",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.95%",
     "time": 1059,
     "timeDay": 349,
@@ -145,7 +145,7 @@
     "timeMonth": 413,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2022-04-05": 0,
+      "2022-04-05": 9,
       "2022-01-12": 17,
       "2021-12-14": 15,
       "2021-11-05": 166,
@@ -159,9 +159,9 @@
     "slug": "ubuntu-com-tutorial",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 884,
     "timeDay": 3755,
@@ -169,7 +169,7 @@
     "timeMonth": 817,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2022-04-05": 14,
+      "2022-04-05": 22,
       "2022-01-12": 17,
       "2021-12-14": 15
     }
@@ -180,10 +180,10 @@
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-server-docs",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 691,
     "timeDay": 349,
@@ -191,7 +191,7 @@
     "timeMonth": 351,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-04-05": 20,
+      "2022-04-05": 28,
       "2022-01-12": 17,
       "2021-12-14": 15
     }
@@ -203,9 +203,9 @@
     "slug": "ubuntu-com-kubernetes-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 547,
     "timeDay": 1629,
@@ -213,7 +213,7 @@
     "timeMonth": 314,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2022-04-05": 33,
+      "2022-04-05": 41,
       "2022-01-12": 17,
       "2021-12-14": 15
     }
@@ -311,9 +311,9 @@
     "slug": "ubuntu-com-cve-list",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 855,
     "timeDay": 503,
@@ -321,7 +321,7 @@
     "timeMonth": 573,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2022-04-05": 19,
+      "2022-04-05": 27,
       "2022-03-03": 34,
       "2022-01-12": 17,
       "2021-12-14": 15
@@ -529,10 +529,10 @@
     "icon": "https://favicons.githubusercontent.com/vanillaframework.io",
     "slug": "vanilla-framework",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 633,
     "timeDay": 663,
@@ -540,7 +540,7 @@
     "timeMonth": 485,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2022-04-05": 11,
+      "2022-04-05": 20,
       "2022-01-12": 17,
       "2021-10-09": 26
     }
@@ -550,19 +550,19 @@
     "url": "https://jaas.ai",
     "icon": "https://favicons.githubusercontent.com/jaas.ai",
     "slug": "jaas-ai",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 661,
-    "timeDay": 854,
-    "timeWeek": 572,
-    "timeMonth": 569,
-    "timeYear": 649,
+    "timeDay": 826,
+    "timeWeek": 600,
+    "timeMonth": 576,
+    "timeYear": 650,
     "dailyMinutesDown": {
-      "2022-04-05": 18,
+      "2022-04-05": 25,
       "2021-10-09": 26
     }
   },
@@ -593,9 +593,9 @@
     "slug": "anbox-cloud-io",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 544,
     "timeDay": 714,
@@ -603,7 +603,7 @@
     "timeMonth": 493,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2022-04-05": 17,
+      "2022-04-05": 26,
       "2021-12-15": 228,
       "2021-10-09": 17
     }
@@ -613,19 +613,19 @@
     "url": "https://canonical.com",
     "icon": "https://favicons.githubusercontent.com/canonical.com",
     "slug": "canonical-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 452,
-    "timeDay": 688,
-    "timeWeek": 464,
-    "timeMonth": 470,
+    "time": 453,
+    "timeDay": 689,
+    "timeWeek": 492,
+    "timeMonth": 477,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2022-04-05": 5,
+      "2022-04-05": 12,
       "2021-12-15": 35
     }
   },
@@ -634,16 +634,16 @@
     "url": "https://certification.ubuntu.com",
     "icon": "https://favicons.githubusercontent.com/certification.ubuntu.com",
     "slug": "certification-ubuntu-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "98.52%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1270,
-    "timeDay": 1345,
-    "timeWeek": 994,
-    "timeMonth": 1095,
+    "timeDay": 1357,
+    "timeWeek": 1041,
+    "timeMonth": 1103,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2022-04-05": 21,
@@ -677,19 +677,19 @@
     "url": "https://cn.ubuntu.com",
     "icon": "https://favicons.githubusercontent.com/cn.ubuntu.com",
     "slug": "cn-ubuntu-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
-    "time": 536,
-    "timeDay": 837,
-    "timeWeek": 551,
-    "timeMonth": 568,
-    "timeYear": 549,
+    "time": 537,
+    "timeDay": 838,
+    "timeWeek": 587,
+    "timeMonth": 576,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2022-04-05": 9,
+      "2022-04-05": 16,
       "2021-12-15": 176,
       "2021-12-14": 52
     }
@@ -699,19 +699,19 @@
     "url": "https://dqlite.io",
     "icon": "https://favicons.githubusercontent.com/dqlite.io",
     "slug": "dqlite-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 563,
-    "timeWeek": 419,
-    "timeMonth": 430,
+    "timeDay": 569,
+    "timeWeek": 439,
+    "timeMonth": 434,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2022-04-05": 9
+      "2022-04-05": 16
     }
   },
   {
@@ -721,9 +721,9 @@
     "slug": "jp-ubuntu-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 444,
     "timeDay": 655,
@@ -731,7 +731,7 @@
     "timeMonth": 463,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2022-04-05": 15
+      "2022-04-05": 24
     }
   },
   {
@@ -739,19 +739,19 @@
     "url": "https://juju.is",
     "icon": "https://favicons.githubusercontent.com/juju.is",
     "slug": "juju-is",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 2258,
-    "timeWeek": 960,
-    "timeMonth": 762,
-    "timeYear": 764,
+    "time": 770,
+    "timeDay": 1617,
+    "timeWeek": 962,
+    "timeMonth": 768,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2022-04-05": 8
+      "2022-04-05": 15
     }
   },
   {
@@ -759,16 +759,16 @@
     "url": "https://kubeflow-news.com",
     "icon": "https://favicons.githubusercontent.com/kubeflow-news.com",
     "slug": "kubeflow-news-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1078,
-    "timeDay": 783,
-    "timeWeek": 591,
-    "timeMonth": 587,
+    "timeDay": 745,
+    "timeWeek": 605,
+    "timeMonth": 591,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2021-10-09": 16
@@ -781,9 +781,9 @@
     "slug": "maas-io",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 666,
     "timeDay": 802,
@@ -791,7 +791,7 @@
     "timeMonth": 537,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2022-04-05": 29,
+      "2022-04-05": 37,
       "2021-12-15": 19,
       "2021-10-15": 16,
       "2021-10-09": 25
@@ -866,9 +866,9 @@
     "slug": "multipass-run",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 894,
@@ -876,7 +876,7 @@
     "timeMonth": 576,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2022-04-05": 7
+      "2022-04-05": 16
     }
   },
   {
@@ -886,9 +886,9 @@
     "slug": "mir-server-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 481,
     "timeDay": 2175,
@@ -896,7 +896,7 @@
     "timeMonth": 487,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-04-05": 7
+      "2022-04-05": 15
     }
   },
   {
@@ -928,9 +928,9 @@
     "slug": "netplan-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 356,
     "timeDay": 521,
@@ -938,7 +938,7 @@
     "timeMonth": 369,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2022-04-05": 6
+      "2022-04-05": 15
     }
   }
 ]
