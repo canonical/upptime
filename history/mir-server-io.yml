@@ -1,7 +1,7 @@
 url: https://mir-server.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-04-05T20:32:26.644Z
+status: up
+code: 200
+responseTime: 3824
+lastUpdated: 2022-04-05T20:49:53.544Z
 startTime: Thu Jan 07 2021 17:09:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
