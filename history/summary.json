@@ -70,9 +70,9 @@
     "slug": "ubuntu-com-blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 818,
     "timeDay": 1813,
@@ -80,7 +80,6 @@
     "timeMonth": 475,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2022-04-30": 15,
       "2022-01-12": 17,
       "2021-12-14": 15
     }
@@ -282,9 +281,9 @@
     "slug": "ubuntu-com-smart-start-guide",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1280,
     "timeDay": 6383,
@@ -293,7 +292,7 @@
     "timeYear": 1387,
     "dailyMinutesDown": {
       "2022-05-01": 9,
-      "2022-04-30": 21,
+      "2022-04-30": 8,
       "2022-03-03": 34,
       "2022-01-12": 23,
       "2021-12-14": 15,
