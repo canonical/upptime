@@ -1,7 +1,7 @@
 url: https://ubuntu.com/engage
-status: down
-code: 503
-responseTime: 5131
-lastUpdated: 2022-05-29T04:14:53.431Z
+status: up
+code: 200
+responseTime: 455
+lastUpdated: 2022-05-29T04:28:13.917Z
 startTime: Fri Jan 22 2021 13:08:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
