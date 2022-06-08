@@ -1,7 +1,7 @@
 url: https://ubuntu.com/server/docs
-status: down
-code: 503
-responseTime: 141
-lastUpdated: 2022-06-08T05:36:15.893Z
+status: up
+code: 200
+responseTime: 286
+lastUpdated: 2022-06-08T05:42:16.358Z
 startTime: Fri Jan 22 2021 13:08:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
