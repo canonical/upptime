@@ -14,7 +14,7 @@
     "timeDay": 947,
     "timeWeek": 685,
     "timeMonth": 2511,
-    "timeYear": 960,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2022-06-08": 342,
       "2022-06-07": 1440,
@@ -47,7 +47,7 @@
     "timeDay": 457,
     "timeWeek": 344,
     "timeMonth": 1752,
-    "timeYear": 589,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2022-06-08": 342,
       "2022-06-07": 1440,
@@ -79,7 +79,7 @@
     "timeDay": 431,
     "timeWeek": 782,
     "timeMonth": 1945,
-    "timeYear": 911,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2022-05-29": 60,
       "2022-01-12": 17,
@@ -101,7 +101,7 @@
     "timeDay": 309,
     "timeWeek": 440,
     "timeMonth": 1800,
-    "timeYear": 959,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2022-06-08": 342,
       "2022-06-07": 1440,
@@ -133,7 +133,7 @@
     "timeDay": 348,
     "timeWeek": 309,
     "timeMonth": 1660,
-    "timeYear": 677,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2022-05-29": 47,
       "2022-01-12": 17,
@@ -155,7 +155,7 @@
     "timeDay": 220,
     "timeWeek": 178,
     "timeMonth": 1194,
-    "timeYear": 1314,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2022-06-08": 16,
       "2022-05-29": 72,
@@ -179,7 +179,7 @@
     "timeDay": 346,
     "timeWeek": 870,
     "timeMonth": 1801,
-    "timeYear": 1058,
+    "timeYear": 1057,
     "dailyMinutesDown": {
       "2022-05-29": 36,
       "2022-04-14": 899,
@@ -213,7 +213,7 @@
     "timeDay": 350,
     "timeWeek": 508,
     "timeMonth": 1165,
-    "timeYear": 607,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2022-05-29": 25,
       "2022-04-14": 899,
@@ -277,7 +277,7 @@
     "timeDay": 296,
     "timeWeek": 342,
     "timeMonth": 1089,
-    "timeYear": 563,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2022-05-29": 44,
       "2022-04-14": 899,
@@ -309,7 +309,7 @@
     "timeDay": 354,
     "timeWeek": 312,
     "timeMonth": 1431,
-    "timeYear": 787,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2022-05-29": 18,
       "2022-01-12": 17,
@@ -324,14 +324,14 @@
     "status": "up",
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "15.07%",
+    "uptimeWeek": "15.22%",
     "uptimeMonth": "72.24%",
     "uptimeYear": "97.67%",
     "time": 1431,
     "timeDay": 513,
     "timeWeek": 726,
     "timeMonth": 3061,
-    "timeYear": 1631,
+    "timeYear": 1612,
     "dailyMinutesDown": {
       "2022-06-15": 915,
       "2022-06-14": 1440,
@@ -366,7 +366,7 @@
     "timeDay": 266,
     "timeWeek": 207,
     "timeMonth": 1257,
-    "timeYear": 423,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2022-05-29": 72,
       "2022-01-12": 17,
@@ -388,7 +388,7 @@
     "timeDay": 216,
     "timeWeek": 191,
     "timeMonth": 1125,
-    "timeYear": 481,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2022-05-29": 37,
       "2022-01-12": 17,
@@ -400,19 +400,19 @@
     "url": "https://ubuntu.com/security/cve",
     "icon": "https://favicons.githubusercontent.com/ubuntu.com",
     "slug": "ubuntu-com-cve-list",
-    "status": "down",
+    "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "97.56%",
-    "time": 988,
-    "timeDay": 878,
-    "timeWeek": 636,
-    "timeMonth": 2207,
-    "timeYear": 812,
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "97.55%",
+    "time": 986,
+    "timeDay": 908,
+    "timeWeek": 669,
+    "timeMonth": 2182,
+    "timeYear": 806,
     "dailyMinutesDown": {
-      "2022-06-16": 1,
+      "2022-06-16": 15,
       "2022-06-08": 17,
       "2022-05-29": 144,
       "2022-04-14": 899,
@@ -445,7 +445,7 @@
     "timeDay": 346,
     "timeWeek": 3127,
     "timeMonth": 2279,
-    "timeYear": 954,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2022-05-29": 142,
       "2022-01-12": 17,
@@ -467,7 +467,7 @@
     "timeDay": 144,
     "timeWeek": 197,
     "timeMonth": 1464,
-    "timeYear": 798,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2022-01-12": 17,
       "2021-12-14": 15
@@ -488,7 +488,7 @@
     "timeDay": 348,
     "timeWeek": 290,
     "timeMonth": 1015,
-    "timeYear": 497,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2022-05-29": 54,
       "2022-01-12": 17,
@@ -590,7 +590,7 @@
     "timeDay": 817,
     "timeWeek": 617,
     "timeMonth": 609,
-    "timeYear": 603,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2022-01-12": 17
     }
@@ -630,7 +630,7 @@
     "timeDay": 808,
     "timeWeek": 627,
     "timeMonth": 643,
-    "timeYear": 640,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2022-01-12": 17,
       "2021-10-09": 18
@@ -723,7 +723,7 @@
     "timeDay": 689,
     "timeWeek": 552,
     "timeMonth": 527,
-    "timeYear": 546,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2022-04-14": 899,
       "2022-04-13": 1440,
@@ -775,7 +775,7 @@
     "timeDay": 1378,
     "timeWeek": 1107,
     "timeMonth": 3306,
-    "timeYear": 1805,
+    "timeYear": 1767,
     "dailyMinutesDown": {
       "2022-06-16": 18,
       "2022-05-29": 112,
@@ -862,7 +862,7 @@
     "timeDay": 678,
     "timeWeek": 495,
     "timeMonth": 494,
-    "timeYear": 479,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2022-04-14": 899,
       "2022-04-13": 1440,
@@ -986,7 +986,7 @@
     "timeDay": 690,
     "timeWeek": 532,
     "timeMonth": 549,
-    "timeYear": 582,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2021-12-14": 19,
       "2021-10-09": 25
