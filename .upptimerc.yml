@@ -1,4 +1,4 @@
-owner:  canonical-web-and-design
+owner: canonical-web-and-design
 repo: upptime
 
 sites:
@@ -99,12 +99,11 @@ status-website:
   name: Canonical websites monitoring
   favicon: https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png
   introTitle: "**Upptime** monitors the websites that Canonical's webteam manages."
-  introMessage: Feel free to visit [our GitHub organisation](https://github.com/canonical-web-and-design) to help us make our websites great!
+  introMessage: Feel free to visit [our GitHub organisation](https://github.com/canonical) to help us make our websites great!
   navbar:
     - title: Status
       href: /upptime
     - title: GitHub
-      href: https://github.com/canonical-web-and-design/upptime
-
+      href: https://github.com/canonical/upptime
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
