@@ -1,7 +1,7 @@
 url: https://snapcraft.io
-status: down
-code: 503
-responseTime: 453
-lastUpdated: 2022-12-08T01:48:20.451Z
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2022-12-08T02:20:07.590Z
 startTime: Thu Jan 07 2021 15:48:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
