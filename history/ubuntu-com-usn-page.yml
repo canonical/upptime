@@ -1,7 +1,7 @@
 url: https://ubuntu.com/security/notices/USN-4697-2
-status: up
-code: 200
-responseTime: 365
-lastUpdated: 2022-12-13T23:02:50.510Z
+status: down
+code: 503
+responseTime: 141
+lastUpdated: 2022-12-14T15:18:34.098Z
 startTime: Fri Jan 22 2021 13:15:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
