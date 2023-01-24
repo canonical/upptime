@@ -92,8 +92,6 @@ sites:
     url: https://microstack.run
   - name: netplan.io
     url: https://netplan.io
-  - name: specs.canonical.com
-    url: https://specs.canonical.com
 
 status-website:
   baseUrl: /upptime
