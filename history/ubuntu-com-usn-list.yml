@@ -1,7 +1,7 @@
 url: https://ubuntu.com/security/notices
-status: down
-code: 429
-responseTime: 84
-lastUpdated: 2023-04-02T19:54:36.795Z
+status: up
+code: 200
+responseTime: 5306
+lastUpdated: 2023-04-02T20:03:23.482Z
 startTime: Fri Jan 22 2021 13:15:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
