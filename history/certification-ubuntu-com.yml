@@ -1,7 +1,7 @@
 url: https://certification.ubuntu.com
-status: up
-code: 200
-responseTime: 11002
-lastUpdated: 2023-04-02T18:50:03.014Z
+status: down
+code: 503
+responseTime: 11054
+lastUpdated: 2023-04-02T19:35:30.709Z
 startTime: Thu Jan 07 2021 17:08:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
