@@ -92,6 +92,10 @@ sites:
     url: https://microstack.run
   - name: netplan.io
     url: https://netplan.io
+  - name: Pro Client docs
+    url: https://canonical-ubuntu-pro-client.readthedocs-hosted.com/en/latest/
+  - name: cloud-init docs
+    url: https://canonical-cloud-init.readthedocs-hosted.com/en/latest/
 
 status-website:
   baseUrl: /upptime
