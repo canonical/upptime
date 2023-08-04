@@ -93,7 +93,7 @@ sites:
   - name: netplan.io
     url: https://netplan.io
   - name: readthedocs docs
-    url: https://documentation.ubuntu.com
+    url: https://docs.ubuntu.com/
 
 status-website:
   baseUrl: /upptime
