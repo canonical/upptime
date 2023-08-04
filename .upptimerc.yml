@@ -92,6 +92,8 @@ sites:
     url: https://microstack.run
   - name: netplan.io
     url: https://netplan.io
+  - name: readthedocs docs
+    url: https://documentation.ubuntu.com
 
 status-website:
   baseUrl: /upptime
