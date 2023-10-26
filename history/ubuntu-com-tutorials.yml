@@ -1,7 +1,7 @@
 url: https://ubuntu.com/tutorials
-status: up
-code: 200
-responseTime: 286
-lastUpdated: 2023-10-25T23:03:33.851Z
+status: down
+code: 500
+responseTime: 777
+lastUpdated: 2023-10-26T16:01:42.922Z
 startTime: 2021-01-22T13:08:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
