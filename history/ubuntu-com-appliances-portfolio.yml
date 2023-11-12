@@ -1,7 +1,7 @@
 url: https://ubuntu.com/appliance/portfolio
-status: up
-code: 200
-responseTime: 178
-lastUpdated: 2023-11-11T23:07:05.651Z
+status: down
+code: 503
+responseTime: 7541
+lastUpdated: 2023-11-12T13:20:00.842Z
 startTime: 2021-01-22T13:08:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
