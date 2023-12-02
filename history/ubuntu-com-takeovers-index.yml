@@ -1,7 +1,7 @@
 url: https://ubuntu.com/takeovers
-status: down
-code: 503
-responseTime: 5105
-lastUpdated: 2023-12-02T08:47:53.930Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2023-12-02T08:52:58.524Z
 startTime: 2021-01-22T13:08:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
