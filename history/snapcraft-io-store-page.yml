@@ -1,7 +1,7 @@
 url: https://snapcraft.io/store
-status: up
-code: 200
-responseTime: 297
-lastUpdated: 2024-02-04T23:03:02.027Z
+status: down
+code: 503
+responseTime: 80
+lastUpdated: 2024-02-05T14:40:25.640Z
 startTime: 2021-01-07T15:48:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
