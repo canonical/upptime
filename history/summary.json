@@ -4,19 +4,18 @@
     "url": "https://ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com",
-    "status": "down",
+    "status": "up",
     "uptime": "97.50%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1257,
-    "timeDay": 591,
-    "timeWeek": 1064,
+    "time": 1258,
+    "timeDay": 697,
+    "timeWeek": 1051,
     "timeMonth": 913,
-    "timeYear": 1461,
+    "timeYear": 1459,
     "dailyMinutesDown": {
-      "2024-03-14": 10,
       "2024-02-14": 17,
       "2023-09-20": 21,
       "2023-05-22": 14,
@@ -29,19 +28,18 @@
     "url": "https://ubuntu.com/engage",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-engage-index",
-    "status": "down",
+    "status": "up",
     "uptime": "96.90%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.90%",
-    "time": 978,
-    "timeDay": 343,
-    "timeWeek": 349,
-    "timeMonth": 657,
-    "timeYear": 1084,
+    "time": 979,
+    "timeDay": 429,
+    "timeWeek": 369,
+    "timeMonth": 652,
+    "timeYear": 1082,
     "dailyMinutesDown": {
-      "2024-03-14": 8,
       "2024-02-14": 15,
       "2023-09-20": 20,
       "2023-04-21": 582,
@@ -71,19 +69,18 @@
     "url": "https://ubuntu.com/takeovers",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-takeovers-index",
-    "status": "down",
+    "status": "up",
     "uptime": "96.71%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.87%",
-    "time": 1565,
-    "timeDay": 403,
-    "timeWeek": 1541,
-    "timeMonth": 2073,
-    "timeYear": 1641,
+    "time": 1566,
+    "timeDay": 508,
+    "timeWeek": 1448,
+    "timeMonth": 2030,
+    "timeYear": 1638,
     "dailyMinutesDown": {
-      "2024-03-14": 7,
       "2023-09-25": 34,
       "2023-09-20": 20,
       "2023-04-21": 582,
@@ -220,7 +217,7 @@
     "status": "up",
     "uptime": "94.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.37%",
+    "uptimeWeek": "87.51%",
     "uptimeMonth": "83.24%",
     "uptimeYear": "89.01%",
     "time": 1861,
@@ -273,8 +270,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -332,8 +328,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -389,8 +384,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -529,8 +523,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -628,8 +621,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -729,8 +721,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -738,19 +729,18 @@
     "url": "https://ubuntu.com/security/notices.json",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-notices",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "97.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.55%",
-    "time": 1312,
-    "timeDay": 4612,
-    "timeWeek": 2249,
-    "timeMonth": 1658,
-    "timeYear": 1341,
+    "time": 1313,
+    "timeDay": 3791,
+    "timeWeek": 2238,
+    "timeMonth": 1673,
+    "timeYear": 1343,
     "dailyMinutesDown": {
-      "2024-03-14": 5,
       "2023-05-21": 1361,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -839,8 +829,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -849,7 +838,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-usn-page",
     "status": "up",
-    "uptime": "91.06%",
+    "uptime": "91.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -907,8 +896,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -916,19 +904,18 @@
     "url": "https://snapcraft.io",
     "icon": "https://icons.duckduckgo.com/ip3/snapcraft.io.ico",
     "slug": "snapcraft-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 3781,
-    "timeWeek": 1051,
-    "timeMonth": 695,
-    "timeYear": 644,
+    "time": 643,
+    "timeDay": 2323,
+    "timeWeek": 1028,
+    "timeMonth": 701,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2024-03-14": 2,
       "2024-02-05": 18
     }
   },
@@ -1018,14 +1005,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "69.12%",
+    "uptimeYear": "69.11%",
     "time": 203,
     "timeDay": 365,
     "timeWeek": 410,
     "timeMonth": 383,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-03-14": 1436,
+      "2024-03-15": 10,
+      "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -1168,7 +1156,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.18%",
+    "uptimeYear": "69.19%",
     "time": 592,
     "timeDay": 530,
     "timeWeek": 567,
@@ -1285,8 +1273,7 @@
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
-      "2023-03-17": 1440,
-      "2023-03-16": 1440
+      "2023-03-17": 1440
     }
   },
   {
@@ -1298,7 +1285,7 @@
     "uptime": "98.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.14%",
+    "uptimeMonth": "63.11%",
     "uptimeYear": "96.89%",
     "time": 1645,
     "timeDay": 1506,
@@ -1306,7 +1293,8 @@
     "timeMonth": 1021,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2024-03-14": 1436,
+      "2024-03-15": 10,
+      "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -1675,7 +1663,8 @@
     "timeMonth": 531,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-03-14": 1437,
+      "2024-03-15": 10,
+      "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
