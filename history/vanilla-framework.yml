@@ -1,7 +1,7 @@
 url: https://vanillaframework.io
-status: up
-code: 200
-responseTime: 554
-lastUpdated: 2024-06-19T23:03:48.712Z
+status: down
+code: 503
+responseTime: 727
+lastUpdated: 2024-06-20T12:49:13.509Z
 startTime: 2021-01-07T15:48:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
