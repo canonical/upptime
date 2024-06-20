@@ -1,7 +1,7 @@
 url: https://jp.ubuntu.com
-status: down
-code: 503
-responseTime: 575
-lastUpdated: 2024-06-20T12:49:37.823Z
+status: up
+code: 200
+responseTime: 550
+lastUpdated: 2024-06-20T13:25:47.045Z
 startTime: 2021-01-07T17:08:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
