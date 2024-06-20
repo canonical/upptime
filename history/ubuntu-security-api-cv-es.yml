@@ -1,7 +1,7 @@
 url: https://ubuntu.com/security/cves.json
-status: up
-code: 200
-responseTime: 583
-lastUpdated: 2024-06-20T17:27:40.480Z
+status: down
+code: 503
+responseTime: 80
+lastUpdated: 2024-06-20T17:33:10.893Z
 startTime: 2022-02-18T13:37:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
