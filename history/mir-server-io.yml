@@ -1,7 +1,7 @@
 url: https://mir-server.io
-status: down
-code: 503
-responseTime: 477
-lastUpdated: 2024-06-20T13:50:15.891Z
+status: up
+code: 200
+responseTime: 680
+lastUpdated: 2024-06-20T14:02:10.726Z
 startTime: 2021-01-07T17:09:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
