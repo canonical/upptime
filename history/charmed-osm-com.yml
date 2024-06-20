@@ -1,7 +1,7 @@
 url: https://charmed-osm.com
-status: down
-code: 503
-responseTime: 366
-lastUpdated: 2024-06-20T13:44:23.771Z
+status: up
+code: 200
+responseTime: 931
+lastUpdated: 2024-06-20T13:49:49.944Z
 startTime: 2021-01-07T17:08:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
