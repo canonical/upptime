@@ -56,8 +56,6 @@ sites:
     url: https://vanillaframework.io
   - name: JAAS.ai
     url: https://jaas.ai
-  - name: JAAS Dashboard
-    url: https://jaas.ai/models
   - name: anbox-cloud.io
     url: https://anbox-cloud.io
   - name: canonical.com
