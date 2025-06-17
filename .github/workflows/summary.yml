@@ -28,7 +28,7 @@ jobs:
         with:
           node-version: 22
       - name: Update summary in README
-        uses: upptime/uptime-monitor@v1.31.2
+        uses: upptime/uptime-monitor@v1.40.1
         with:
           command: "readme"
         env:
