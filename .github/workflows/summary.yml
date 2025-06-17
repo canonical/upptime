@@ -17,13 +17,16 @@ on:
 jobs:
   release:
     name: Generate README
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
       - name: Update summary in README
         uses: upptime/uptime-monitor@v1.31.2
         with:
