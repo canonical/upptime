@@ -9,8 +9,6 @@
 
 name: Setup CI
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   push:
     paths:
       - ".upptimerc.yml"
