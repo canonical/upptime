@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1171,
-    "timeDay": 1002,
-    "timeWeek": 757,
-    "timeMonth": 757,
+    "time": 1172,
+    "timeDay": 916,
+    "timeWeek": 797,
+    "timeMonth": 797,
     "timeYear": 698,
-    "dailyMinutesDown": {
-      "2024-06-20": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com engage index",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 724,
-    "timeDay": 208,
-    "timeWeek": 165,
-    "timeMonth": 165,
-    "timeYear": 325,
-    "dailyMinutesDown": {
-      "2024-06-20": 26
-    }
+    "time": 723,
+    "timeDay": 189,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 320,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com takeovers index",
@@ -50,14 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1047,
-    "timeDay": 241,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 396,
-    "dailyMinutesDown": {
-      "2024-06-20": 26
-    }
+    "time": 1045,
+    "timeDay": 220,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 391,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com blog",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-blog",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 691,
-    "timeDay": 193,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 553,
-    "dailyMinutesDown": {
-      "2024-06-20": 795
-    }
+    "uptimeYear": "99.85%",
+    "time": 679,
+    "timeDay": 175,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 415,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com blog post",
@@ -90,14 +82,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 555,
-    "timeDay": 193,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 253,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 599,
+    "timeDay": 9060,
+    "timeWeek": 2373,
+    "timeMonth": 2373,
+    "timeYear": 598,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com advantage",
@@ -111,13 +101,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1516,
-    "timeDay": 427,
-    "timeWeek": 2288,
-    "timeMonth": 2288,
-    "timeYear": 1397,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "timeDay": 377,
+    "timeWeek": 1810,
+    "timeMonth": 1810,
+    "timeYear": 1399,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com tutorials",
@@ -125,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-tutorials",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 351,
-    "timeDay": 190,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 220,
-    "dailyMinutesDown": {
-      "2024-06-20": 795
-    }
+    "uptimeYear": "99.85%",
+    "time": 326,
+    "timeDay": 173,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 224,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com tutorial",
@@ -149,15 +135,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 387,
-    "timeDay": 173,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 251,
-    "dailyMinutesDown": {
-      "2024-06-20": 795
-    }
+    "uptimeYear": "99.85%",
+    "time": 393,
+    "timeDay": 1468,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 305,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com server docs",
@@ -165,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-server-docs",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 403,
-    "timeDay": 347,
-    "timeWeek": 326,
-    "timeMonth": 326,
-    "timeYear": 389,
-    "dailyMinutesDown": {
-      "2024-06-20": 795
-    }
+    "uptimeYear": "99.85%",
+    "time": 404,
+    "timeDay": 517,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 403,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com kubernetes docs",
@@ -185,19 +167,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-kubernetes-docs",
     "status": "up",
-    "uptime": "93.66%",
+    "uptime": "93.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 281,
-    "timeDay": 354,
-    "timeWeek": 266,
-    "timeMonth": 266,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2024-06-20": 795
-    }
+    "uptimeYear": "99.85%",
+    "time": 280,
+    "timeDay": 315,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 236,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com Ceph docs",
@@ -209,15 +189,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 406,
-    "timeDay": 194,
-    "timeWeek": 145,
-    "timeMonth": 145,
-    "timeYear": 257,
-    "dailyMinutesDown": {
-      "2024-06-20": 795
-    }
+    "uptimeYear": "99.85%",
+    "time": 405,
+    "timeDay": 176,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 260,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com smart start guide",
@@ -230,14 +208,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 556,
-    "timeDay": 362,
-    "timeWeek": 306,
-    "timeMonth": 306,
-    "timeYear": 752,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 555,
+    "timeDay": 396,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 760,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com appliances portfolio",
@@ -245,19 +221,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-appliances-portfolio",
     "status": "up",
-    "uptime": "96.42%",
+    "uptime": "96.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.85%",
     "time": 309,
-    "timeDay": 6839,
-    "timeWeek": 2422,
-    "timeMonth": 2422,
-    "timeYear": 441,
-    "dailyMinutesDown": {
-      "2024-06-20": 796
-    }
+    "timeDay": 315,
+    "timeWeek": 1895,
+    "timeMonth": 1895,
+    "timeYear": 449,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com appliance page",
@@ -265,19 +239,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-appliance-page",
     "status": "up",
-    "uptime": "93.47%",
+    "uptime": "93.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 227,
-    "timeDay": 185,
-    "timeWeek": 138,
-    "timeMonth": 138,
-    "timeYear": 175,
-    "dailyMinutesDown": {
-      "2024-06-20": 796
-    }
+    "uptimeYear": "99.85%",
+    "time": 228,
+    "timeDay": 168,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 179,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE list",
@@ -285,19 +257,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-cve-list",
     "status": "up",
-    "uptime": "93.53%",
+    "uptime": "93.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2916,
-    "timeDay": 379,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 646,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 2913,
+    "timeDay": 333,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 642,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE page",
@@ -305,19 +275,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-cve-page",
     "status": "up",
-    "uptime": "93.85%",
+    "uptime": "93.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 272,
-    "timeDay": 206,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 274,
-    "dailyMinutesDown": {
-      "2024-06-20": 796
-    }
+    "uptimeYear": "99.85%",
+    "time": 271,
+    "timeDay": 187,
+    "timeWeek": 162,
+    "timeMonth": 162,
+    "timeYear": 278,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com USN list",
@@ -329,15 +297,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 198,
-    "timeDay": 207,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 157,
-    "dailyMinutesDown": {
-      "2024-06-20": 796
-    }
+    "uptimeYear": "99.85%",
+    "time": 197,
+    "timeDay": 187,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 158,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com USN page",
@@ -345,19 +311,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-usn-page",
     "status": "up",
-    "uptime": "92.88%",
+    "uptime": "92.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.85%",
     "time": 259,
-    "timeDay": 186,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 343,
-    "dailyMinutesDown": {
-      "2024-06-20": 796
-    }
+    "timeDay": 170,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 346,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu Security API - CVEs",
@@ -365,19 +329,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-cv-es",
     "status": "up",
-    "uptime": "93.49%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 389,
-    "timeDay": 650,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 405,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 390,
+    "timeDay": 400,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 414,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu Security API - Notices",
@@ -390,14 +352,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1863,
-    "timeDay": 150,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 2916,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 1782,
+    "timeDay": 260,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 2777,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu Security API - CVE page",
@@ -405,19 +365,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-cve-page",
     "status": "up",
-    "uptime": "89.91%",
+    "uptime": "89.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.85%",
     "time": 344,
-    "timeDay": 183,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 214,
-    "dailyMinutesDown": {
-      "2024-06-20": 796
-    }
+    "timeDay": 152,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 217,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu Security API - USN page",
@@ -425,19 +383,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-usn-page",
     "status": "up",
-    "uptime": "89.81%",
+    "uptime": "89.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.85%",
     "time": 464,
-    "timeDay": 143,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 1182,
-    "dailyMinutesDown": {
-      "2024-06-20": 796
-    }
+    "timeDay": 130,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 1184,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snapcraft.io",
@@ -451,13 +407,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 889,
-    "timeDay": 957,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 824,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "timeDay": 843,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 836,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snapcraft.io store page",
@@ -471,13 +425,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 221,
-    "timeDay": 176,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 130,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "timeDay": 160,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 133,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Charmhub.io",
@@ -490,14 +442,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 760,
-    "timeDay": 784,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 621,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 762,
+    "timeDay": 856,
+    "timeWeek": 703,
+    "timeMonth": 703,
+    "timeYear": 632,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vanilla Framework",
@@ -510,14 +460,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 716,
-    "timeDay": 804,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 592,
-    "dailyMinutesDown": {
-      "2024-06-20": 49
-    }
+    "time": 717,
+    "timeDay": 782,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 603,
+    "dailyMinutesDown": {}
   },
   {
     "name": "JAAS.ai",
@@ -530,14 +478,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 822,
-    "timeDay": 823,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 640,
-    "dailyMinutesDown": {
-      "2024-06-20": 36
-    }
+    "time": 824,
+    "timeDay": 818,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 653,
+    "dailyMinutesDown": {}
   },
   {
     "name": "anbox-cloud.io",
@@ -550,14 +496,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 715,
-    "timeDay": 1731,
-    "timeWeek": 1422,
-    "timeMonth": 1422,
-    "timeYear": 671,
-    "dailyMinutesDown": {
-      "2024-06-20": 36
-    }
+    "time": 720,
+    "timeDay": 1864,
+    "timeWeek": 1533,
+    "timeMonth": 1533,
+    "timeYear": 733,
+    "dailyMinutesDown": {}
   },
   {
     "name": "canonical.com",
@@ -565,19 +509,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/canonical.com.ico",
     "slug": "canonical-com",
     "status": "up",
-    "uptime": "91.84%",
+    "uptime": "91.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 847,
-    "timeDay": 325,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 598,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 846,
+    "timeDay": 293,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 587,
+    "dailyMinutesDown": {}
   },
   {
     "name": "certification.ubuntu.com",
@@ -590,14 +532,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1568,
-    "timeDay": 9368,
-    "timeWeek": 3765,
-    "timeMonth": 3765,
-    "timeYear": 1246,
-    "dailyMinutesDown": {
-      "2024-06-20": 36
-    }
+    "time": 1570,
+    "timeDay": 1415,
+    "timeWeek": 3177,
+    "timeMonth": 3177,
+    "timeYear": 1264,
+    "dailyMinutesDown": {}
   },
   {
     "name": "charmed-osm.com",
@@ -610,14 +550,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1184,
-    "timeDay": 6831,
-    "timeWeek": 2769,
-    "timeMonth": 2769,
-    "timeYear": 1016,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 1187,
+    "timeDay": 1086,
+    "timeWeek": 2349,
+    "timeMonth": 2349,
+    "timeYear": 1035,
+    "dailyMinutesDown": {}
   },
   {
     "name": "cn.ubuntu.com",
@@ -625,19 +563,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cn.ubuntu.com.ico",
     "slug": "cn-ubuntu-com",
     "status": "up",
-    "uptime": "90.55%",
+    "uptime": "90.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 857,
-    "timeDay": 684,
-    "timeWeek": 620,
-    "timeMonth": 620,
-    "timeYear": 633,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "timeDay": 675,
+    "timeWeek": 634,
+    "timeMonth": 634,
+    "timeYear": 640,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dqlite.io",
@@ -650,14 +586,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 763,
-    "timeDay": 1206,
-    "timeWeek": 1036,
-    "timeMonth": 1036,
-    "timeYear": 709,
-    "dailyMinutesDown": {
-      "2024-06-20": 46
-    }
+    "time": 766,
+    "timeDay": 1158,
+    "timeWeek": 1067,
+    "timeMonth": 1067,
+    "timeYear": 743,
+    "dailyMinutesDown": {}
   },
   {
     "name": "jp.ubuntu.com",
@@ -670,14 +604,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 656,
-    "timeDay": 814,
-    "timeWeek": 606,
-    "timeMonth": 606,
-    "timeYear": 554,
-    "dailyMinutesDown": {
-      "2024-06-20": 60
-    }
+    "time": 658,
+    "timeDay": 824,
+    "timeWeek": 660,
+    "timeMonth": 660,
+    "timeYear": 572,
+    "dailyMinutesDown": {}
   },
   {
     "name": "juju.is",
@@ -689,15 +621,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.85%",
     "time": 1007,
-    "timeDay": 979,
-    "timeWeek": 575,
-    "timeMonth": 575,
-    "timeYear": 821,
-    "dailyMinutesDown": {
-      "2024-06-20": 811
-    }
+    "timeDay": 560,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 811,
+    "dailyMinutesDown": {}
   },
   {
     "name": "kubeflow-news.com",
@@ -710,14 +640,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1269,
-    "timeDay": 1440,
-    "timeWeek": 1175,
-    "timeMonth": 1175,
-    "timeYear": 1024,
-    "dailyMinutesDown": {
-      "2024-06-20": 58
-    }
+    "time": 1273,
+    "timeDay": 1322,
+    "timeWeek": 1212,
+    "timeMonth": 1212,
+    "timeYear": 1041,
+    "dailyMinutesDown": {}
   },
   {
     "name": "maas.io",
@@ -730,14 +658,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 819,
-    "timeDay": 953,
-    "timeWeek": 747,
-    "timeMonth": 747,
-    "timeYear": 632,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 821,
+    "timeDay": 770,
+    "timeWeek": 753,
+    "timeMonth": 753,
+    "timeYear": 638,
+    "dailyMinutesDown": {}
   },
   {
     "name": "maas.io docs",
@@ -751,13 +677,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 244,
-    "timeDay": 252,
+    "timeDay": 243,
     "timeWeek": 243,
     "timeMonth": 243,
-    "timeYear": 252,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "timeYear": 255,
+    "dailyMinutesDown": {}
   },
   {
     "name": "microk8s.io",
@@ -770,14 +694,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 831,
-    "timeDay": 859,
-    "timeWeek": 688,
-    "timeMonth": 688,
-    "timeYear": 580,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 833,
+    "timeDay": 763,
+    "timeWeek": 707,
+    "timeMonth": 707,
+    "timeYear": 590,
+    "dailyMinutesDown": {}
   },
   {
     "name": "microk8s.io/docs",
@@ -791,13 +713,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 429,
-    "timeDay": 473,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 317,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "timeDay": 408,
+    "timeWeek": 370,
+    "timeMonth": 370,
+    "timeYear": 321,
+    "dailyMinutesDown": {}
   },
   {
     "name": "multipass.run",
@@ -809,15 +729,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
-    "time": 677,
-    "timeDay": 1672,
-    "timeWeek": 1272,
-    "timeMonth": 1272,
-    "timeYear": 695,
-    "dailyMinutesDown": {
-      "2024-06-20": 815
-    }
+    "uptimeYear": "99.85%",
+    "time": 683,
+    "timeDay": 1454,
+    "timeWeek": 1318,
+    "timeMonth": 1318,
+    "timeYear": 720,
+    "dailyMinutesDown": {}
   },
   {
     "name": "mir-server.io",
@@ -830,14 +748,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 677,
-    "timeDay": 798,
-    "timeWeek": 675,
-    "timeMonth": 675,
-    "timeYear": 608,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 678,
+    "timeDay": 692,
+    "timeWeek": 679,
+    "timeMonth": 679,
+    "timeYear": 618,
+    "dailyMinutesDown": {}
   },
   {
     "name": "microstack.run",
@@ -850,14 +766,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 846,
-    "timeDay": 1015,
-    "timeWeek": 846,
-    "timeMonth": 846,
-    "timeYear": 628,
-    "dailyMinutesDown": {
-      "2024-06-20": 46
-    }
+    "time": 848,
+    "timeDay": 987,
+    "timeWeek": 882,
+    "timeMonth": 882,
+    "timeYear": 647,
+    "dailyMinutesDown": {}
   },
   {
     "name": "netplan.io",
@@ -870,14 +784,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 657,
-    "timeDay": 722,
-    "timeWeek": 573,
-    "timeMonth": 573,
-    "timeYear": 516,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "time": 658,
+    "timeDay": 578,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 524,
+    "dailyMinutesDown": {}
   },
   {
     "name": "readthedocs docs",
@@ -891,12 +803,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 763,
-    "timeDay": 594,
-    "timeWeek": 529,
-    "timeMonth": 529,
-    "timeYear": 510,
-    "dailyMinutesDown": {
-      "2024-06-20": 27
-    }
+    "timeDay": 701,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 527,
+    "dailyMinutesDown": {}
   }
 ]
