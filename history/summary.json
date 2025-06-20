@@ -166,19 +166,19 @@
     "url": "https://ubuntu.com/kubernetes/docs",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-kubernetes-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "93.67%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 2699,
-    "timeWeek": 1239,
-    "timeMonth": 1239,
-    "timeYear": 464,
+    "time": 310,
+    "timeDay": 2278,
+    "timeWeek": 1272,
+    "timeMonth": 1272,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-06-20": 2
+      "2025-06-20": 15
     }
   },
   {
@@ -186,19 +186,19 @@
     "url": "https://ubuntu.com/ceph/docs",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-ceph-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "96.48%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 2631,
-    "timeWeek": 1139,
-    "timeMonth": 1139,
-    "timeYear": 486,
+    "time": 402,
+    "timeDay": 1797,
+    "timeWeek": 971,
+    "timeMonth": 971,
+    "timeYear": 471,
     "dailyMinutesDown": {
-      "2025-06-20": 1
+      "2025-06-20": 14
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "https://ubuntu.com/smartstart/guide",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-smart-start-guide",
-    "status": "down",
+    "status": "up",
     "uptime": "97.33%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 2746,
-    "timeWeek": 1282,
-    "timeMonth": 1282,
-    "timeYear": 596,
+    "time": 579,
+    "timeDay": 1922,
+    "timeWeek": 1114,
+    "timeMonth": 1114,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-06-20": 1
+      "2025-06-20": 14
     }
   },
   {
