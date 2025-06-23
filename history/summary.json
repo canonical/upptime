@@ -4,19 +4,19 @@
     "url": "https://ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.21%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1133,
-    "timeDay": 623,
-    "timeWeek": 795,
-    "timeMonth": 795,
-    "timeYear": 732,
+    "time": 1134,
+    "timeDay": 668,
+    "timeWeek": 786,
+    "timeMonth": 786,
+    "timeYear": 731,
     "dailyMinutesDown": {
-      "2025-06-23": 2
+      "2025-06-23": 17
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ubuntu.com/engage",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-engage-index",
-    "status": "down",
+    "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 127,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 269,
+    "time": 720,
+    "timeDay": 132,
+    "timeWeek": 162,
+    "timeMonth": 162,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2025-06-23": 1
+      "2025-06-23": 16
     }
   },
   {
