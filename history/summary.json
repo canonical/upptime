@@ -80,19 +80,19 @@
     "url": "https://ubuntu.com/blog/design-and-web-team-summary-29-december-2020",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-blog-post",
-    "status": "down",
-    "uptime": "97.40%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "97.39%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 14106,
-    "timeWeek": 3456,
-    "timeMonth": 3147,
-    "timeYear": 2200,
+    "time": 788,
+    "timeDay": 13015,
+    "timeWeek": 4127,
+    "timeMonth": 3659,
+    "timeYear": 2592,
     "dailyMinutesDown": {
-      "2025-06-27": 1
+      "2025-06-27": 19
     }
   },
   {
@@ -280,19 +280,19 @@
     "url": "https://ubuntu.com/security/CVE-2020-15180",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-cve-page",
-    "status": "down",
+    "status": "up",
     "uptime": "93.88%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 440,
-    "timeWeek": 222,
-    "timeMonth": 202,
-    "timeYear": 239,
+    "time": 270,
+    "timeDay": 422,
+    "timeWeek": 240,
+    "timeMonth": 216,
+    "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-06-27": 1
+      "2025-06-27": 19
     }
   },
   {
@@ -318,19 +318,19 @@
     "url": "https://ubuntu.com/security/notices/USN-4697-2",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-usn-page",
-    "status": "down",
+    "status": "up",
     "uptime": "92.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 580,
-    "timeWeek": 246,
-    "timeMonth": 213,
-    "timeYear": 388,
+    "time": 257,
+    "timeDay": 450,
+    "timeWeek": 240,
+    "timeMonth": 211,
+    "timeYear": 378,
     "dailyMinutesDown": {
-      "2025-06-27": 1
+      "2025-06-27": 19
     }
   },
   {
@@ -338,19 +338,19 @@
     "url": "https://ubuntu.com/security/cves.json",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-cv-es",
-    "status": "down",
+    "status": "up",
     "uptime": "93.54%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 183,
-    "timeWeek": 248,
-    "timeMonth": 275,
-    "timeYear": 356,
+    "timeDay": 181,
+    "timeWeek": 240,
+    "timeMonth": 267,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2025-06-27": 1
+      "2025-06-27": 19
     }
   },
   {
@@ -378,9 +378,9 @@
     "slug": "ubuntu-security-api-cve-page",
     "status": "down",
     "uptime": "89.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 140,
@@ -388,7 +388,7 @@
     "timeMonth": 198,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-06-27": 1
+      "2025-06-27": 20
     }
   },
   {
@@ -396,19 +396,19 @@
     "url": "https://ubuntu.com/security/notices/USN-4697-2.json",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-usn-page",
-    "status": "down",
+    "status": "up",
     "uptime": "89.88%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 525,
-    "timeDay": 167,
-    "timeWeek": 1843,
-    "timeMonth": 1266,
-    "timeYear": 863,
+    "timeDay": 231,
+    "timeWeek": 1678,
+    "timeMonth": 1197,
+    "timeYear": 838,
     "dailyMinutesDown": {
-      "2025-06-27": 1
+      "2025-06-27": 19
     }
   },
   {
