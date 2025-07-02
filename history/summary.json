@@ -614,18 +614,20 @@
     "url": "https://jp.ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/jp.ubuntu.com.ico",
     "slug": "jp-ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 662,
+    "time": 661,
     "timeDay": 537,
     "timeWeek": 596,
     "timeMonth": 603,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-02": 1
+    }
   },
   {
     "name": "juju.is",
