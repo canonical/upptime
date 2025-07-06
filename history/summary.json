@@ -599,19 +599,19 @@
     "url": "https://dqlite.io",
     "icon": "https://icons.duckduckgo.com/ip3/dqlite.io.ico",
     "slug": "dqlite-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 752,
-    "timeWeek": 974,
-    "timeMonth": 1017,
-    "timeYear": 1017,
+    "time": 817,
+    "timeDay": 903,
+    "timeWeek": 1000,
+    "timeMonth": 1025,
+    "timeYear": 1025,
     "dailyMinutesDown": {
-      "2025-07-06": 1
+      "2025-07-06": 8
     }
   },
   {
