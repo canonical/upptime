@@ -100,19 +100,19 @@
     "url": "https://ubuntu.com/advantage",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-advantage",
-    "status": "down",
+    "status": "up",
     "uptime": "95.87%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1604,
-    "timeDay": 310,
-    "timeWeek": 2625,
-    "timeMonth": 1769,
-    "timeYear": 1769,
+    "time": 1628,
+    "timeDay": 2716,
+    "timeWeek": 2937,
+    "timeMonth": 1893,
+    "timeYear": 1893,
     "dailyMinutesDown": {
-      "2025-07-12": 3
+      "2025-07-12": 8
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "https://ubuntu.com/tutorials/how-to-install-ubuntu-desktop-on-raspberry-pi-4#1-overview",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-tutorial",
-    "status": "down",
+    "status": "up",
     "uptime": "93.75%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 1526,
-    "timeWeek": 473,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "time": 401,
+    "timeDay": 1069,
+    "timeWeek": 438,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2025-07-12": 2
+      "2025-07-12": 8
     }
   },
   {
