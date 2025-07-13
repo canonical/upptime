@@ -208,19 +208,19 @@
     "url": "https://ubuntu.com/smartstart/guide",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-smart-start-guide",
-    "status": "down",
+    "status": "up",
     "uptime": "97.37%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 2802,
-    "timeWeek": 913,
-    "timeMonth": 666,
-    "timeYear": 666,
+    "time": 545,
+    "timeDay": 1983,
+    "timeWeek": 850,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-07-13": 3
+      "2025-07-13": 8
     }
   },
   {
