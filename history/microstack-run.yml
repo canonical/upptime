@@ -1,7 +1,7 @@
 url: https://microstack.run
-status: down
-code: 503
-responseTime: 448
-lastUpdated: 2025-07-17T19:22:22.798Z
+status: up
+code: 200
+responseTime: 9135
+lastUpdated: 2025-07-17T19:36:27.947Z
 startTime: 2021-01-07T17:09:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
