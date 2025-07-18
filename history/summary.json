@@ -785,9 +785,9 @@
     "slug": "microstack-run",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1205,
     "timeDay": 4078,
@@ -795,7 +795,7 @@
     "timeMonth": 2342,
     "timeYear": 2270,
     "dailyMinutesDown": {
-      "2025-07-17": 61
+      "2025-07-17": 47
     }
   },
   {
