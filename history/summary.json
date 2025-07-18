@@ -783,18 +783,19 @@
     "url": "https://microstack.run",
     "icon": "https://icons.duckduckgo.com/ip3/microstack.run.ico",
     "slug": "microstack-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 1205,
+    "time": 1208,
     "timeDay": 4078,
     "timeWeek": 3059,
     "timeMonth": 2342,
     "timeYear": 2270,
     "dailyMinutesDown": {
+      "2025-07-18": 1,
       "2025-07-17": 47
     }
   },
