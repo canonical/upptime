@@ -4,19 +4,19 @@
     "url": "https://ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1206,
-    "timeDay": 13698,
-    "timeWeek": 5246,
-    "timeMonth": 1926,
-    "timeYear": 1522,
+    "time": 1208,
+    "timeDay": 9443,
+    "timeWeek": 4767,
+    "timeMonth": 1895,
+    "timeYear": 1510,
     "dailyMinutesDown": {
-      "2025-07-30": 27,
+      "2025-07-30": 34,
       "2025-06-23": 17
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://ubuntu.com/engage",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-engage-index",
-    "status": "down",
+    "status": "up",
     "uptime": "97.84%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 649,
-    "timeDay": 14020,
-    "timeWeek": 3615,
-    "timeMonth": 1053,
-    "timeYear": 748,
+    "time": 647,
+    "timeDay": 9409,
+    "timeWeek": 3234,
+    "timeMonth": 1026,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2025-07-30": 26,
+      "2025-07-30": 32,
       "2025-06-23": 16
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://ubuntu.com/takeovers",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com-takeovers-index",
-    "status": "down",
+    "status": "up",
     "uptime": "97.71%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1008,
-    "timeDay": 14205,
-    "timeWeek": 3674,
-    "timeMonth": 1339,
-    "timeYear": 962,
+    "timeDay": 9540,
+    "timeWeek": 3289,
+    "timeMonth": 1303,
+    "timeYear": 946,
     "dailyMinutesDown": {
-      "2025-07-30": 24
+      "2025-07-30": 31
     }
   },
   {
@@ -270,18 +270,16 @@
     "slug": "ubuntu-com-appliance-page",
     "status": "up",
     "uptime": "93.64%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 1779,
     "timeWeek": 677,
     "timeMonth": 290,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2025-07-30": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE list",
@@ -290,18 +288,16 @@
     "slug": "ubuntu-com-cve-list",
     "status": "up",
     "uptime": "93.70%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1319,
     "timeDay": 1858,
     "timeWeek": 793,
     "timeMonth": 445,
     "timeYear": 395,
-    "dailyMinutesDown": {
-      "2025-07-30": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com CVE page",
@@ -310,9 +306,9 @@
     "slug": "ubuntu-com-cve-page",
     "status": "up",
     "uptime": "94.01%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 288,
     "timeDay": 1806,
@@ -320,7 +316,6 @@
     "timeMonth": 372,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-07-30": 14,
       "2025-07-09": 34,
       "2025-06-27": 19
     }
@@ -332,18 +327,16 @@
     "slug": "ubuntu-com-usn-list",
     "status": "up",
     "uptime": "93.09%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 1795,
     "timeWeek": 692,
     "timeMonth": 307,
     "timeYear": 259,
-    "dailyMinutesDown": {
-      "2025-07-30": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu.com USN page",
@@ -352,9 +345,9 @@
     "slug": "ubuntu-com-usn-page",
     "status": "up",
     "uptime": "93.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 268,
     "timeDay": 1775,
@@ -362,7 +355,6 @@
     "timeMonth": 305,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-07-30": 14,
       "2025-07-03": 26,
       "2025-06-27": 19
     }
@@ -374,17 +366,16 @@
     "slug": "ubuntu-security-api-cv-es",
     "status": "up",
     "uptime": "93.71%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 475,
     "timeDay": 1904,
     "timeWeek": 785,
     "timeMonth": 875,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2025-07-30": 13,
       "2025-06-27": 19
     }
   },
@@ -394,19 +385,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-notices",
     "status": "up",
-    "uptime": "95.05%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptime": "95.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1526,
     "timeDay": 1847,
     "timeWeek": 771,
     "timeMonth": 389,
     "timeYear": 340,
-    "dailyMinutesDown": {
-      "2025-07-30": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubuntu Security API - CVE page",
@@ -437,9 +426,9 @@
     "slug": "ubuntu-security-api-usn-page",
     "status": "up",
     "uptime": "90.15%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 541,
     "timeDay": 1757,
@@ -447,7 +436,6 @@
     "timeMonth": 270,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2025-07-30": 13,
       "2025-07-03": 27,
       "2025-06-27": 19
     }
@@ -459,18 +447,16 @@
     "slug": "snapcraft-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1099,
     "timeDay": 3148,
     "timeWeek": 3200,
     "timeMonth": 1900,
     "timeYear": 1512,
-    "dailyMinutesDown": {
-      "2025-07-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snapcraft.io store page",
@@ -587,18 +573,16 @@
     "slug": "certification-ubuntu-com",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1718,
     "timeDay": 6449,
     "timeWeek": 2805,
     "timeMonth": 1771,
     "timeYear": 1981,
-    "dailyMinutesDown": {
-      "2025-07-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "charmed-osm.com",
@@ -607,9 +591,9 @@
     "slug": "charmed-osm-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1371,
     "timeDay": 664,
@@ -617,7 +601,7 @@
     "timeMonth": 2810,
     "timeYear": 2431,
     "dailyMinutesDown": {
-      "2025-07-30": 5
+      "2025-07-30": 12
     }
   },
   {
