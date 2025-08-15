@@ -13,25 +13,25 @@ sites:
   - name: Ubuntu.com blog post
     url: https://ubuntu.com/blog/design-and-web-team-summary-29-december-2020
   - name: Ubuntu.com advantage
-    url: https://ubuntu.com/advantage
+    url: https://ubuntu.com/pro
   - name: Ubuntu.com tutorials
     url: https://ubuntu.com/tutorials
   - name: Ubuntu.com tutorial
     url: https://ubuntu.com/tutorials/how-to-install-ubuntu-desktop-on-raspberry-pi-4#1-overview
-  - name: Ubuntu.com server docs
-    url: https://ubuntu.com/server/docs
   - name: Ubuntu.com kubernetes docs
-    url: https://ubuntu.com/kubernetes/docs
+    url: https://ubuntu.com/kubernetes/charmed-k8s/docs
   - name: Ubuntu.com Ceph docs
     url: https://ubuntu.com/ceph/docs
-  - name: Ubuntu.com smart start guide
-    url: https://ubuntu.com/smartstart/guide
-  - name: Ubuntu.com appliances portfolio
-    url: https://ubuntu.com/appliance/portfolio
-  - name: Ubuntu.com appliance page
+  - name: Canonical Dedicated Snap Store docs
+    url: https://documentation.ubuntu.com/dedicated-snap-store/
+  - name: Ubuntu Server docs
+    url: https://documentation.ubuntu.com/server/
+  - name: Ubuntu.com appliance landing page
+    url: https://ubuntu.com/appliance
+  - name: Ubuntu.com appliance openhab page
     url: https://ubuntu.com/appliance/openhab
   - name: Ubuntu.com CVE list
-    url: https://ubuntu.com/security/cve
+    url: https://ubuntu.com/security/cves
   - name: Ubuntu.com CVE page
     url: https://ubuntu.com/security/CVE-2020-15180
   - name: Ubuntu.com USN list
@@ -56,42 +56,29 @@ sites:
     url: https://vanillaframework.io
   - name: JAAS.ai
     url: https://jaas.ai
-  - name: anbox-cloud.io
-    url: https://anbox-cloud.io
   - name: canonical.com
     url: https://canonical.com
-  - name: certification.ubuntu.com
-    url: https://certification.ubuntu.com
-  - name: charmed-osm.com
-    url: https://charmed-osm.com
+  - name: canonical.com solutions page
+    url: https://canonical.com/solutions
   - name: cn.ubuntu.com
     url: https://cn.ubuntu.com
-  - name: dqlite.io
-    url: https://dqlite.io
   - name: jp.ubuntu.com
     url: https://jp.ubuntu.com
   - name: juju.is
     url: https://juju.is
-  - name: kubeflow-news.com
-    url: https://kubeflow-news.com
-  - name: maas.io
-    url: https://maas.io
-  - name: maas.io docs
-    url: https://maas.io/docs
   - name: microk8s.io
     url: https://microk8s.io
   - name: microk8s.io/docs
     url: https://microk8s.io/docs/release-notes
-  - name: multipass.run
-    url: https://multipass.run
-  - name: mir-server.io
-    url: https://mir-server.io
-  - name: microstack.run
-    url: https://microstack.run
   - name: netplan.io
     url: https://netplan.io
-  - name: readthedocs docs
+  - name: readthedocs index page
     url: https://docs.ubuntu.com/
+  - name: Content System
+    url: https://cs.canonical.com
+  - name: Canonical Design
+    url: https://canonical.design
+  
 
 status-website:
   baseUrl: /upptime
