@@ -14,6 +14,8 @@ on:
   repository_dispatch:
     types: [updates]
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   release:
     name: Deploy updates
@@ -22,7 +24,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: ${{ github.head_ref }}
+          ref: ${{ github.ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - uses: actions/setup-node@v4
         with:
