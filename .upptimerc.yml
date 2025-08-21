@@ -22,8 +22,6 @@ sites:
     url: https://ubuntu.com/kubernetes/charmed-k8s/docs
   - name: Ubuntu.com Ceph docs
     url: https://ubuntu.com/ceph/docs
-  - name: Canonical Dedicated Snap Store docs
-    url: https://documentation.ubuntu.com/dedicated-snap-store/
   - name: Ubuntu Server docs
     url: https://documentation.ubuntu.com/server/
   - name: Ubuntu.com appliance landing page
