@@ -1,7 +1,7 @@
 url: https://ubuntu.com/blog/design-and-web-team-summary-29-december-2020
-status: up
-code: 200
-responseTime: 5206
-lastUpdated: 2025-09-03T19:57:20.758Z
+status: down
+code: 503
+responseTime: 5232
+lastUpdated: 2025-09-03T20:24:34.463Z
 startTime: 2021-01-22T13:08:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
