@@ -1,7 +1,7 @@
 url: https://ubuntu.com/security/notices/USN-4697-2.json
-status: down
-code: 503
-responseTime: 5123
-lastUpdated: 2025-09-03T20:29:23.519Z
+status: up
+code: 200
+responseTime: 93
+lastUpdated: 2025-09-03T20:50:34.952Z
 startTime: 2022-02-18T13:37:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
