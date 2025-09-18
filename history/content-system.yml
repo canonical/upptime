@@ -1,7 +1,7 @@
 url: https://cs.canonical.com
-status: up
-code: 200
-responseTime: 85
-lastUpdated: 2025-09-18T04:46:41.118Z
+status: down
+code: 503
+responseTime: 504
+lastUpdated: 2025-09-18T09:23:28.244Z
 startTime: 2025-08-29T08:26:26.127Z
 generator: Upptime <https://github.com/upptime/upptime>
