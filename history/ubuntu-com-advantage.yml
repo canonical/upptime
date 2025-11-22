@@ -1,7 +1,7 @@
 url: https://ubuntu.com/pro
-status: up
-code: 200
-responseTime: 200
-lastUpdated: 2025-11-21T23:05:57.596Z
+status: down
+code: 503
+responseTime: 5144
+lastUpdated: 2025-11-22T17:39:29.146Z
 startTime: 2021-01-22T13:08:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
