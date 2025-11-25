@@ -1,7 +1,7 @@
 url: https://ubuntu.com/engage
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2025-11-24T23:05:50.023Z
+status: down
+code: 503
+responseTime: 5114
+lastUpdated: 2025-11-25T06:51:44.928Z
 startTime: 2021-01-22T13:08:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
