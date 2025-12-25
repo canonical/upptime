@@ -1,7 +1,7 @@
 url: https://microk8s.io/docs/release-notes
-status: up
-code: 200
-responseTime: 5557
-lastUpdated: 2025-12-25T21:13:53.681Z
+status: down
+code: 503
+responseTime: 5294
+lastUpdated: 2025-12-25T21:31:30.801Z
 startTime: 2021-04-12T13:26:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
