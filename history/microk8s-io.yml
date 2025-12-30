@@ -1,7 +1,7 @@
 url: https://microk8s.io
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2025-12-29T23:41:16.588Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-12-30T03:39:11.052Z
 startTime: 2021-01-07T17:08:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
