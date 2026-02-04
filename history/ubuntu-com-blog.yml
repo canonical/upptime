@@ -1,7 +1,7 @@
 url: https://ubuntu.com/blog
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2026-02-03T23:10:29.526Z
+status: down
+code: 503
+responseTime: 9361
+lastUpdated: 2026-02-04T15:30:14.489Z
 startTime: 2021-01-22T13:08:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
