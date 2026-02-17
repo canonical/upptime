@@ -1,7 +1,7 @@
 url: https://cn.ubuntu.com
-status: up
-code: 200
-responseTime: 687
-lastUpdated: 2026-02-17T13:34:34.688Z
+status: down
+code: 403
+responseTime: 1206
+lastUpdated: 2026-02-17T14:10:46.971Z
 startTime: 2021-01-07T17:08:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
