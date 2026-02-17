@@ -1,7 +1,7 @@
 url: https://netplan.io
-status: up
-code: 200
-responseTime: 835
-lastUpdated: 2026-02-17T06:34:15.478Z
+status: down
+code: 403
+responseTime: 1247
+lastUpdated: 2026-02-17T07:33:27.217Z
 startTime: 2021-01-07T17:09:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
