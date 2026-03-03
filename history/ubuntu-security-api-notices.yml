@@ -1,7 +1,7 @@
 url: https://ubuntu.com/security/notices.json
-status: down
-code: 503
-responseTime: 117
-lastUpdated: 2026-03-03T07:48:01.143Z
+status: up
+code: 200
+responseTime: 321
+lastUpdated: 2026-03-03T08:03:59.705Z
 startTime: 2022-02-18T13:37:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
