@@ -1,7 +1,7 @@
 url: https://ubuntu.com/kubernetes/charmed-k8s/docs
-status: up
-code: 200
-responseTime: 135
-lastUpdated: 2026-03-13T23:09:33.638Z
+status: down
+code: 503
+responseTime: 5562
+lastUpdated: 2026-03-14T20:14:59.118Z
 startTime: 2021-01-22T13:08:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
