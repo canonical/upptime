@@ -1,7 +1,7 @@
 url: https://ubuntu.com/appliance/openhab
-status: up
-code: 200
-responseTime: 113
-lastUpdated: 2026-03-20T23:09:48.117Z
+status: down
+code: 503
+responseTime: 5094
+lastUpdated: 2026-03-21T13:34:45.340Z
 startTime: 2025-08-29T08:26:03.785Z
 generator: Upptime <https://github.com/upptime/upptime>
