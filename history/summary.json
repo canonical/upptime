@@ -789,7 +789,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-notices",
     "status": "up",
-    "uptime": "94.94%",
+    "uptime": "94.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.93%",
@@ -887,18 +887,19 @@
     "url": "https://ubuntu.com/security/notices/USN-4697-2.json",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-security-api-usn-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.09%",
-    "time": 908,
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.10%",
+    "time": 910,
     "timeDay": 135,
     "timeWeek": 1357,
     "timeMonth": 373,
     "timeYear": 1096,
     "dailyMinutesDown": {
+      "2026-03-26": 1,
       "2026-03-12": 17,
       "2026-03-03": 270,
       "2026-02-27": 16,
@@ -913,7 +914,7 @@
       "2025-12-27": 780,
       "2025-12-26": 813,
       "2025-09-16": 19,
-      "2025-09-04": 442
+      "2025-09-04": 403
     }
   },
   {
