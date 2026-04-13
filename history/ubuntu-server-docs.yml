@@ -1,7 +1,7 @@
 url: https://documentation.ubuntu.com/server/
-status: up
-code: 200
-responseTime: 440
-lastUpdated: 2026-04-12T23:13:10.565Z
+status: down
+code: 403
+responseTime: 847
+lastUpdated: 2026-04-13T07:50:58.314Z
 startTime: 2025-08-29T08:26:02.218Z
 generator: Upptime <https://github.com/upptime/upptime>
