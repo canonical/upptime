@@ -1,7 +1,7 @@
 url: https://ubuntu.com/appliance
-status: up
-code: 200
-responseTime: 131
-lastUpdated: 2026-04-29T23:22:30.042Z
+status: down
+code: 503
+responseTime: 26127
+lastUpdated: 2026-04-30T16:58:59.283Z
 startTime: 2025-08-29T08:26:02.945Z
 generator: Upptime <https://github.com/upptime/upptime>
