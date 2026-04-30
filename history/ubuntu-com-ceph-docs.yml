@@ -1,7 +1,7 @@
 url: https://ubuntu.com/ceph/docs
-status: up
-code: 200
-responseTime: 127
-lastUpdated: 2026-04-29T23:22:28.993Z
+status: down
+code: 503
+responseTime: 27529
+lastUpdated: 2026-04-30T16:56:20.763Z
 startTime: 2021-01-22T13:15:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
