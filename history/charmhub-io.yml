@@ -1,7 +1,7 @@
 url: https://charmhub.io
-status: up
-code: 200
-responseTime: 719
-lastUpdated: 2026-05-01T22:02:18.228Z
+status: down
+code: 502
+responseTime: 556
+lastUpdated: 2026-05-01T22:24:08.976Z
 startTime: 2021-01-07T15:48:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
