@@ -1299,19 +1299,19 @@
     "url": "https://cn.ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/cn.ubuntu.com.ico",
     "slug": "cn-ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "92.73%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "92.72%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "98.82%",
-    "time": 1538,
+    "time": 1539,
     "timeDay": 703,
     "timeWeek": 3174,
     "timeMonth": 1450,
     "timeYear": 1681,
     "dailyMinutesDown": {
-      "2026-05-03": 91,
+      "2026-05-03": 92,
       "2026-05-02": 84,
       "2026-05-01": 344,
       "2026-04-30": 213,
@@ -1330,8 +1330,7 @@
       "2025-12-30": 173,
       "2025-12-29": 594,
       "2025-12-28": 423,
-      "2025-12-27": 394,
-      "2025-12-26": 19
+      "2025-12-27": 394
     }
   },
   {
@@ -1581,7 +1580,7 @@
     "status": "up",
     "uptime": "96.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.88%",
+    "uptimeWeek": "87.15%",
     "uptimeMonth": "88.72%",
     "uptimeYear": "96.10%",
     "time": 1506,
