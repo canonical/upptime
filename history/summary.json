@@ -1510,18 +1510,19 @@
     "url": "https://netplan.io",
     "icon": "https://icons.duckduckgo.com/ip3/netplan.io.ico",
     "slug": "netplan-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "92.39%",
-    "uptimeWeek": "83.67%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "83.65%",
     "uptimeMonth": "96.24%",
     "uptimeYear": "98.68%",
-    "time": 1601,
+    "time": 1602,
     "timeDay": 627,
     "timeWeek": 1992,
     "timeMonth": 1218,
     "timeYear": 1913,
     "dailyMinutesDown": {
+      "2026-05-07": 2,
       "2026-05-06": 110,
       "2026-05-04": 46,
       "2026-05-02": 82,
@@ -1544,7 +1545,7 @@
       "2025-09-11": 15,
       "2025-09-07": 43,
       "2025-09-04": 322,
-      "2025-09-03": 40
+      "2025-09-03": 24
     }
   },
   {
