@@ -1313,19 +1313,19 @@
     "url": "https://cn.ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/cn.ubuntu.com.ico",
     "slug": "cn-ubuntu-com",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "83.91%",
-    "uptimeWeek": "86.11%",
-    "uptimeMonth": "92.10%",
-    "uptimeYear": "98.63%",
-    "time": 1495,
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "83.80%",
+    "uptimeWeek": "86.10%",
+    "uptimeMonth": "92.09%",
+    "uptimeYear": "98.65%",
+    "time": 1496,
     "timeDay": 672,
     "timeWeek": 909,
     "timeMonth": 1107,
     "timeYear": 1585,
     "dailyMinutesDown": {
-      "2026-05-17": 72,
+      "2026-05-17": 74,
       "2026-05-16": 159,
       "2026-05-15": 267,
       "2026-05-14": 53,
@@ -1354,7 +1354,7 @@
       "2026-02-06": 350,
       "2026-02-05": 465,
       "2026-02-04": 302,
-      "2026-02-03": 144
+      "2026-02-03": 79
     }
   },
   {
