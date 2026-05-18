@@ -1254,7 +1254,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/canonical.com.ico",
     "slug": "canonical-com",
     "status": "up",
-    "uptime": "93.09%",
+    "uptime": "93.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "96.64%",
@@ -1316,19 +1316,19 @@
     "url": "https://cn.ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/cn.ubuntu.com.ico",
     "slug": "cn-ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "84.12%",
-    "uptimeWeek": "84.61%",
+    "uptimeDay": "84.01%",
+    "uptimeWeek": "84.59%",
     "uptimeMonth": "91.19%",
-    "uptimeYear": "98.58%",
-    "time": 1500,
+    "uptimeYear": "98.59%",
+    "time": 1501,
     "timeDay": 695,
     "timeWeek": 902,
     "timeMonth": 1091,
     "timeYear": 1577,
     "dailyMinutesDown": {
-      "2026-05-18": 229,
+      "2026-05-18": 231,
       "2026-05-17": 263,
       "2026-05-16": 159,
       "2026-05-15": 267,
@@ -1357,7 +1357,7 @@
       "2026-02-16": 572,
       "2026-02-06": 350,
       "2026-02-05": 465,
-      "2026-02-04": 302
+      "2026-02-04": 266
     }
   },
   {
