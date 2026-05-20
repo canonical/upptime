@@ -77,7 +77,7 @@ sites:
   - name: Canonical Design
     url: https://canonical.design
   - name: Ubuntu Frame
-    url: ubuntu.com/frame/docs
+    url: https://ubuntu.com/frame/docs
 
 status-website:
   baseUrl: /upptime
