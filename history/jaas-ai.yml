@@ -1,7 +1,7 @@
 url: https://jaas.ai
-status: up
-code: 200
-responseTime: 1741
-lastUpdated: 2026-05-26T23:29:22.447Z
+status: down
+code: 503
+responseTime: 733
+lastUpdated: 2026-05-27T00:16:40.980Z
 startTime: 2021-01-07T16:56:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
