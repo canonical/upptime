@@ -1458,18 +1458,19 @@
     "url": "https://jp.ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/jp.ubuntu.com.ico",
     "slug": "jp-ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "93.98%",
-    "uptimeMonth": "81.33%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "81.32%",
     "uptimeYear": "97.56%",
-    "time": 1371,
+    "time": 1372,
     "timeDay": 525,
     "timeWeek": 568,
     "timeMonth": 632,
     "timeYear": 1562,
     "dailyMinutesDown": {
+      "2026-06-08": 2,
       "2026-06-07": 44,
       "2026-06-03": 58,
       "2026-06-02": 206,
@@ -1500,7 +1501,7 @@
       "2025-12-29": 459,
       "2025-12-28": 463,
       "2025-12-27": 243,
-      "2025-12-26": 267
+      "2025-12-26": 249
     }
   },
   {
@@ -1771,7 +1772,7 @@
     "status": "up",
     "uptime": "92.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.82%",
+    "uptimeWeek": "91.09%",
     "uptimeMonth": "58.10%",
     "uptimeYear": "92.08%",
     "time": 1457,
