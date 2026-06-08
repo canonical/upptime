@@ -1510,19 +1510,19 @@
     "url": "https://juju.is",
     "icon": "https://icons.duckduckgo.com/ip3/juju.is.ico",
     "slug": "juju-is",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "89.47%",
-    "uptimeWeek": "93.25%",
+    "uptimeDay": "89.33%",
+    "uptimeWeek": "93.23%",
     "uptimeMonth": "96.18%",
-    "uptimeYear": "98.82%",
-    "time": 2004,
+    "uptimeYear": "98.83%",
+    "time": 2006,
     "timeDay": 989,
     "timeWeek": 1058,
     "timeMonth": 1149,
     "timeYear": 2188,
     "dailyMinutesDown": {
-      "2026-06-08": 152,
+      "2026-06-08": 154,
       "2026-06-07": 45,
       "2026-06-06": 79,
       "2026-06-05": 47,
@@ -1552,7 +1552,7 @@
       "2025-12-29": 708,
       "2025-12-28": 640,
       "2025-12-27": 552,
-      "2025-12-26": 140
+      "2025-12-26": 89
     }
   },
   {
