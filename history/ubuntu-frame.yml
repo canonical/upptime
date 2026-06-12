@@ -1,7 +1,7 @@
 url: https://ubuntu.com/frame/docs
-status: up
-code: 200
-responseTime: 985
-lastUpdated: 2026-06-11T23:34:34.980Z
+status: down
+code: 502
+responseTime: 1479
+lastUpdated: 2026-06-12T10:38:02.782Z
 startTime: 2026-05-20T11:36:19.800Z
 generator: Upptime <https://github.com/upptime/upptime>
