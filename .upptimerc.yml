@@ -78,6 +78,8 @@ sites:
     url: https://canonical.design
   - name: Ubuntu Frame
     url: https://ubuntu.com/frame/docs
+  - name: canonical.com Ceph docs
+    url: https://canonical.com/ceph/docs
 
 status-website:
   baseUrl: /upptime
