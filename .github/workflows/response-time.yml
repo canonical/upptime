@@ -33,4 +33,3 @@ jobs:
           command: "response-time"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-          SECRETS_CONTEXT: ${{ toJson(secrets) }}
